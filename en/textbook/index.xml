@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Textbooks | THUIAR</title>
-    <link>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/</link>
-      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.mfy.world/en/textbook/</link>
+      <atom:link href="https://thuiar.mfy.world/en/textbook/index.xml" rel="self" type="application/rss+xml" />
     <description>Textbooks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 15:43:29 +0800</lastBuildDate>
     <image>
-      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Textbooks</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/</link>
+      <link>https://thuiar.mfy.world/en/textbook/</link>
     </image>
     
     <item>
       <title>Data Mining: Methodology and Applications</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/datamining-methodandapplication/</link>
+      <link>https://thuiar.mfy.world/en/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
-      <guid>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/datamining-methodandapplication/</guid>
+      <guid>https://thuiar.mfy.world/en/textbook/datamining-methodandapplication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Mining: Methods and Applications - Application Cases</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/datamining-methodandapplication-case/</link>
+      <link>https://thuiar.mfy.world/en/textbook/datamining-methodandapplication-case/</link>
       <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
-      <guid>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/datamining-methodandapplication-case/</guid>
+      <guid>https://thuiar.mfy.world/en/textbook/datamining-methodandapplication-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data Technology and Industry Applications</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/bigdatatechnologyandindustryapplications/</link>
+      <link>https://thuiar.mfy.world/en/textbook/bigdatatechnologyandindustryapplications/</link>
       <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
-      <guid>https://fanyangmengdev.github.io/thuiar.github.io/en/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <guid>https://thuiar.mfy.world/en/textbook/bigdatatechnologyandindustryapplications/</guid>
       <description></description>
     </item>
     

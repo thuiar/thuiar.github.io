@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | 清华大学IAR研究组</title>
-    <link>https://fanyangmengdev.github.io/thuiar.github.io/publication_types/</link>
-      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.mfy.world/publication_types/</link>
+      <atom:link href="https://thuiar.mfy.world/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/publication_types/</link>
+      <link>https://thuiar.mfy.world/publication_types/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wenmeng Yu | THUIAR</title>
-    <link>https://fanyangmengdev.github.io/thuiar.github.io/en/author/wenmeng-yu/</link>
-      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/en/author/wenmeng-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.mfy.world/en/author/wenmeng-yu/</link>
+      <atom:link href="https://thuiar.mfy.world/en/author/wenmeng-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenmeng Yu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Sun, 12 Jul 2020 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Wenmeng Yu</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/author/wenmeng-yu/</link>
+      <link>https://thuiar.mfy.world/en/author/wenmeng-yu/</link>
     </image>
     
     <item>
       <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/publication/chsims/</link>
+      <link>https://thuiar.mfy.world/en/publication/chsims/</link>
       <pubDate>Sun, 12 Jul 2020 15:24:04 +0800</pubDate>
-      <guid>https://fanyangmengdev.github.io/thuiar.github.io/en/publication/chsims/</guid>
+      <guid>https://thuiar.mfy.world/en/publication/chsims/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>尹从峰 | 清华大学IAR研究组</title>
-    <link>https://fanyangmengdev.github.io/thuiar.github.io/author/%E5%B0%B9%E4%BB%8E%E5%B3%B0/</link>
-      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/author/%E5%B0%B9%E4%BB%8E%E5%B3%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.mfy.world/author/%E5%B0%B9%E4%BB%8E%E5%B3%B0/</link>
+      <atom:link href="https://thuiar.mfy.world/author/%E5%B0%B9%E4%BB%8E%E5%B3%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>尹从峰</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright>
     <image>
-      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>尹从峰</title>
-      <link>https://fanyangmengdev.github.io/thuiar.github.io/author/%E5%B0%B9%E4%BB%8E%E5%B3%B0/</link>
+      <link>https://thuiar.mfy.world/author/%E5%B0%B9%E4%BB%8E%E5%B3%B0/</link>
     </image>
     
   </channel>
