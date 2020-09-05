@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textbooks | 清华大学IAR研究组</title>
+    <link>https://test.mfy.world/textbook/</link>
+      <atom:link href="https://test.mfy.world/textbook/index.xml" rel="self" type="application/rss+xml" />
+    <description>Textbooks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 15:43:29 +0800</lastBuildDate>
+    <image>
+      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Textbooks</title>
+      <link>https://test.mfy.world/textbook/</link>
+    </image>
+    
+    <item>
+      <title>数据挖掘：方法与应用</title>
+      <link>https://test.mfy.world/textbook/datamining-methodandapplication/</link>
+      <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/textbook/datamining-methodandapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据挖掘：方法与应用——应用案例</title>
+      <link>https://test.mfy.world/textbook/datamining-methodandapplication-case/</link>
+      <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/textbook/datamining-methodandapplication-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大数据技术及行业应用</title>
+      <link>https://test.mfy.world/textbook/bigdatatechnologyandindustryapplications/</link>
+      <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

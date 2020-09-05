@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>徐华 | 清华大学IAR研究组</title>
+    <link>https://test.mfy.world/author/%E5%BE%90%E5%8D%8E/</link>
+      <atom:link href="https://test.mfy.world/author/%E5%BE%90%E5%8D%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>徐华</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>徐华</title>
+      <link>https://test.mfy.world/author/%E5%BE%90%E5%8D%8E/</link>
+    </image>
+    
+    <item>
+      <title>数据挖掘：方法与应用</title>
+      <link>https://test.mfy.world/textbook/datamining-methodandapplication/</link>
+      <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/textbook/datamining-methodandapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petri Net: Theory and Applications</title>
+      <link>https://test.mfy.world/monograph/petrinettheoryandapplications/</link>
+      <pubDate>Fri, 01 Feb 2008 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/monograph/petrinettheoryandapplications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据挖掘：方法与应用——应用案例</title>
+      <link>https://test.mfy.world/textbook/datamining-methodandapplication-case/</link>
+      <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/textbook/datamining-methodandapplication-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大数据技术及行业应用</title>
+      <link>https://test.mfy.world/textbook/bigdatatechnologyandindustryapplications/</link>
+      <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
+      <link>https://test.mfy.world/publication/cmbert/</link>
+      <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/publication/cmbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
+      <link>https://test.mfy.world/publication/chsims/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/publication/chsims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
+      <link>https://test.mfy.world/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
+      <link>https://test.mfy.world/publication/hgfm/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/publication/hgfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Robustness of Machine Reading Comprehension Model with Hierarchical Knowledge and Auxiliary Unanswerability Prediction</title>
+      <link>https://test.mfy.world/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

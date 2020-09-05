@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | THUIAR</title>
+    <link>https://thuiar.github.io/en/publication-type/0/</link>
+      <atom:link href="https://thuiar.github.io/en/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://thuiar.github.io/en/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>CHSIMS</title>
+      <link>https://thuiar.github.io/en/publication/chsims/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/publication/chsims/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

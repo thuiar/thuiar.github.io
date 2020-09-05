@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | THUIAR</title>
+    <link>https://test.mfy.world/en/publication-type/2/</link>
+      <atom:link href="https://test.mfy.world/en/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://test.mfy.world/en/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
+      <link>https://test.mfy.world/en/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Robustness of Machine Reading Comprehension Model with Hierarchical Knowledge and Auxiliary Unanswerability Prediction</title>
+      <link>https://test.mfy.world/en/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

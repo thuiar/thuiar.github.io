@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hua Xu | THUIAR</title>
+    <link>https://test.mfy.world/en/author/hua-xu/</link>
+      <atom:link href="https://test.mfy.world/en/author/hua-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hua Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hua Xu</title>
+      <link>https://test.mfy.world/en/author/hua-xu/</link>
+    </image>
+    
+    <item>
+      <title>Data Mining: Methodology and Applications</title>
+      <link>https://test.mfy.world/en/textbook/datamining-methodandapplication/</link>
+      <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/en/textbook/datamining-methodandapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petri Net: Theory and Applications</title>
+      <link>https://test.mfy.world/en/monograph/petrinettheoryandapplications/</link>
+      <pubDate>Fri, 01 Feb 2008 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/en/monograph/petrinettheoryandapplications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining: Methods and Applications - Application Cases</title>
+      <link>https://test.mfy.world/en/textbook/datamining-methodandapplication-case/</link>
+      <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/en/textbook/datamining-methodandapplication-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Technology and Industry Applications</title>
+      <link>https://test.mfy.world/en/textbook/bigdatatechnologyandindustryapplications/</link>
+      <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/en/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
+      <link>https://test.mfy.world/en/publication/cmbert/</link>
+      <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/cmbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
+      <link>https://test.mfy.world/en/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
+      <link>https://test.mfy.world/en/publication/hgfm/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/hgfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Robustness of Machine Reading Comprehension Model with Hierarchical Knowledge and Auxiliary Unanswerability Prediction</title>
+      <link>https://test.mfy.world/en/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
+      <link>https://test.mfy.world/en/publication/chsims/</link>
+      <pubDate>Sun, 12 Jul 2020 15:24:04 +0800</pubDate>
+      <guid>https://test.mfy.world/en/publication/chsims/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

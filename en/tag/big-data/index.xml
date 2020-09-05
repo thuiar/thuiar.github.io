@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data | THUIAR</title>
+    <link>https://test.mfy.world/en/tag/big-data/</link>
+      <atom:link href="https://test.mfy.world/en/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Big Data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 15:43:29 +0800</lastBuildDate>
+    <image>
+      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Big Data</title>
+      <link>https://test.mfy.world/en/tag/big-data/</link>
+    </image>
+    
+    <item>
+      <title>Big Data Technology and Industry Applications</title>
+      <link>https://test.mfy.world/en/textbook/bigdatatechnologyandindustryapplications/</link>
+      <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
+      <guid>https://test.mfy.world/en/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
