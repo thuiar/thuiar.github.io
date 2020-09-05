@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>数据科学 | 清华大学IAR研究组</title>
-    <link>https://test.mfy.world/category/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</link>
-      <atom:link href="https://test.mfy.world/category/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fanyangmengdev.github.io/thuiar.github.io/category/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</link>
+      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/category/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <description>数据科学</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 15:43:29 +0800</lastBuildDate>
     <image>
-      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>数据科学</title>
-      <link>https://test.mfy.world/category/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/category/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</link>
     </image>
     
     <item>
       <title>数据挖掘：方法与应用</title>
-      <link>https://test.mfy.world/textbook/datamining-methodandapplication/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
-      <guid>https://test.mfy.world/textbook/datamining-methodandapplication/</guid>
+      <guid>https://fanyangmengdev.github.io/thuiar.github.io/textbook/datamining-methodandapplication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>数据挖掘：方法与应用——应用案例</title>
-      <link>https://test.mfy.world/textbook/datamining-methodandapplication-case/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/textbook/datamining-methodandapplication-case/</link>
       <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
-      <guid>https://test.mfy.world/textbook/datamining-methodandapplication-case/</guid>
+      <guid>https://fanyangmengdev.github.io/thuiar.github.io/textbook/datamining-methodandapplication-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>大数据技术及行业应用</title>
-      <link>https://test.mfy.world/textbook/bigdatatechnologyandindustryapplications/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</link>
       <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
-      <guid>https://test.mfy.world/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <guid>https://fanyangmengdev.github.io/thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiyun Zou | THUIAR</title>
-    <link>https://test.mfy.world/en/author/jiyun-zou/</link>
-      <atom:link href="https://test.mfy.world/en/author/jiyun-zou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fanyangmengdev.github.io/thuiar.github.io/en/author/jiyun-zou/</link>
+      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/en/author/jiyun-zou/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiyun Zou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jiyun Zou</title>
-      <link>https://test.mfy.world/en/author/jiyun-zou/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/author/jiyun-zou/</link>
     </image>
     
     <item>
       <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
-      <link>https://test.mfy.world/en/publication/hgfm/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/en/publication/hgfm/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://test.mfy.world/en/publication/hgfm/</guid>
+      <guid>https://fanyangmengdev.github.io/thuiar.github.io/en/publication/hgfm/</guid>
       <description></description>
     </item>
     

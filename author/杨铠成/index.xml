@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杨铠成 | 清华大学IAR研究组</title>
-    <link>https://test.mfy.world/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
-      <atom:link href="https://test.mfy.world/author/%E6%9D%A8%E9%93%A0%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fanyangmengdev.github.io/thuiar.github.io/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
+      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/author/%E6%9D%A8%E9%93%A0%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <description>杨铠成</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>杨铠成</title>
-      <link>https://test.mfy.world/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
     </image>
     
     <item>
       <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
-      <link>https://test.mfy.world/publication/cmbert/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/publication/cmbert/</link>
       <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
-      <guid>https://test.mfy.world/publication/cmbert/</guid>
+      <guid>https://fanyangmengdev.github.io/thuiar.github.io/publication/cmbert/</guid>
       <description></description>
     </item>
     

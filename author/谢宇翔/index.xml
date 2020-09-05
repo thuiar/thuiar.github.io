@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>谢宇翔 | 清华大学IAR研究组</title>
-    <link>https://test.mfy.world/author/%E8%B0%A2%E5%AE%87%E7%BF%94/</link>
-      <atom:link href="https://test.mfy.world/author/%E8%B0%A2%E5%AE%87%E7%BF%94/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fanyangmengdev.github.io/thuiar.github.io/author/%E8%B0%A2%E5%AE%87%E7%BF%94/</link>
+      <atom:link href="https://fanyangmengdev.github.io/thuiar.github.io/author/%E8%B0%A2%E5%AE%87%E7%BF%94/index.xml" rel="self" type="application/rss+xml" />
     <description>谢宇翔</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright>
     <image>
-      <url>https://test.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fanyangmengdev.github.io/thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>谢宇翔</title>
-      <link>https://test.mfy.world/author/%E8%B0%A2%E5%AE%87%E7%BF%94/</link>
+      <link>https://fanyangmengdev.github.io/thuiar.github.io/author/%E8%B0%A2%E5%AE%87%E7%BF%94/</link>
     </image>
     
   </channel>
