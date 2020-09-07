@@ -6,6 +6,6 @@ Intelligent Information Processing and Advanced Control Software Technology Rese
 
 实验室Github：[THUIAR](https://github.com/thuiar)
 
-官方网站链接：https://thuiar.github.io/
+官方网站链接(暂时)：https://thuiar.mfy.world/
 
 由 **[孟繁阳](https://github.com/FanyangMengDev/)** 使用 Hugo 制作并维护
