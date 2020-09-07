@@ -45,6 +45,54 @@
     </item>
     
     <item>
+      <title>Sentiment Analysis and Ontology Engineering</title>
+      <link>https://thuiar.mfy.world/en/monograph/sentimentanalysisandontologyengineering/</link>
+      <pubDate>Mon, 01 Feb 2016 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/monograph/sentimentanalysisandontologyengineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Multi-robot Systems</title>
+      <link>https://thuiar.mfy.world/en/monograph/recentadvancesinmulti-robotsystems/</link>
+      <pubDate>Fri, 01 Feb 2008 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/monograph/recentadvancesinmulti-robotsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Multi-robot Systems</title>
+      <link>https://thuiar.mfy.world/en/monograph/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Tue, 01 Feb 2005 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/monograph/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>质量软件管理（第1卷）--系统思维</title>
+      <link>https://thuiar.mfy.world/en/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sun, 01 Feb 2004 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>程序开发心理学（银年纪念版）</title>
+      <link>https://thuiar.mfy.world/en/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</link>
+      <pubDate>Sat, 01 Feb 2003 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据结构与算法（Java描述）</title>
+      <link>https://thuiar.mfy.world/en/monograph/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</link>
+      <pubDate>Wed, 01 Feb 2006 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/monograph/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>基于改进支持向量机的产品评论情感分类方法及装置</title>
       <link>https://thuiar.mfy.world/en/patent/3000-%E5%9F%BA%E4%BA%8E%E6%94%B9%E8%BF%9B%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95%E5%8F%8A%E8%A3%85%E7%BD%AE/</link>
       <pubDate>Fri, 21 Feb 2020 15:43:29 +0800</pubDate>
@@ -321,6 +369,22 @@
       <link>https://thuiar.mfy.world/en/publication/chsims/</link>
       <pubDate>Sun, 12 Jul 2020 15:24:04 +0800</pubDate>
       <guid>https://thuiar.mfy.world/en/publication/chsims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
+      <link>https://thuiar.mfy.world/en/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
+      <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Channel Convolutional Neural Networks with Adversarial Training for Few-Shot Relation Classification</title>
+      <link>https://thuiar.mfy.world/en/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</link>
+      <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</guid>
       <description></description>
     </item>
     

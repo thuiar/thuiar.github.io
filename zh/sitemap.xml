@@ -166,6 +166,21 @@
   </url>
   
   <url>
+    <loc>https://thuiar.mfy.world/author/%E9%82%93%E4%BF%8A%E8%BE%89/</loc>
+    <lastmod>2006-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/author/junhui-deng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/author/%E9%82%93%E4%BF%8A%E8%BE%89/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.mfy.world/author/%E8%A2%81%E6%BA%90/</loc>
     <xhtml:link
                 rel="alternate"
@@ -176,20 +191,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://thuiar.mfy.world/author/%E8%A2%81%E6%BA%90/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.mfy.world/author/%E9%82%93%E4%BF%8A%E8%BE%89/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.mfy.world/en/author/junhui-deng/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.mfy.world/author/%E9%82%93%E4%BF%8A%E8%BE%89/"
                 />
   </url>
   
@@ -205,6 +206,36 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://thuiar.mfy.world/textbook/bigdatatechnologyandindustryapplications/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/monograph/sentimentanalysisandontologyengineering/</loc>
+    <lastmod>2016-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/monograph/sentimentanalysisandontologyengineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/monograph/sentimentanalysisandontologyengineering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/monograph/recentadvancesinmulti-robotsystems/</loc>
+    <lastmod>2008-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/monograph/recentadvancesinmulti-robotsystems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/monograph/recentadvancesinmulti-robotsystems/"
                 />
   </url>
   
@@ -251,6 +282,36 @@
   </url>
   
   <url>
+    <loc>https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/</loc>
+    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/author/hanlei-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/monograph/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2005-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/monograph/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/monograph/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.mfy.world/author/%E5%90%B4%E5%A4%A9%E7%90%A6/</loc>
     <xhtml:link
                 rel="alternate"
@@ -261,20 +322,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://thuiar.mfy.world/author/%E5%90%B4%E5%A4%A9%E7%90%A6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.mfy.world/en/author/hanlei-zhang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/"
                 />
   </url>
   
@@ -318,6 +365,51 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://thuiar.mfy.world/author/%E5%AD%9F%E7%B9%81%E9%98%B3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2004-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</loc>
+    <lastmod>2003-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/monograph/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</loc>
+    <lastmod>2006-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/monograph/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/monograph/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/"
                 />
   </url>
   
@@ -421,6 +513,7 @@
   
   <url>
     <loc>https://thuiar.mfy.world/author/%E8%B0%A2%E5%AE%87%E7%BF%94/</loc>
+    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -435,6 +528,7 @@
   
   <url>
     <loc>https://thuiar.mfy.world/author/%E6%9D%A8%E8%81%AA%E8%81%AA/</loc>
+    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -449,6 +543,7 @@
   
   <url>
     <loc>https://thuiar.mfy.world/author/%E6%9E%97%E5%BB%B7%E6%81%A9/</loc>
+    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1092,6 +1187,36 @@
   </url>
   
   <url>
+    <loc>https://thuiar.mfy.world/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</loc>
+    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.mfy.world/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</loc>
+    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.mfy.world/en/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.mfy.world/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.mfy.world/categories/</loc>
     <lastmod>2017-09-01T15:43:29+08:00</lastmod>
     <xhtml:link
@@ -1153,7 +1278,7 @@
   
   <url>
     <loc>https://thuiar.mfy.world/monograph/</loc>
-    <lastmod>2008-02-01T15:43:29+08:00</lastmod>
+    <lastmod>2016-02-01T15:43:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -5,12 +5,20 @@
     <link>https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/</link>
       <atom:link href="https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/index.xml" rel="self" type="application/rss+xml" />
     <description>张瀚镭</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Sat, 31 Aug 2019 15:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>张瀚镭</title>
       <link>https://thuiar.mfy.world/author/%E5%BC%A0%E7%80%9A%E9%95%AD/</link>
     </image>
+    
+    <item>
+      <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
+      <link>https://thuiar.mfy.world/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
+      <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
