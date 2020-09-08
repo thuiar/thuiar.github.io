@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杨铠成 | THUIAR</title>
-    <link>https://thuiar.mfy.world/en/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
-      <atom:link href="https://thuiar.mfy.world/en/author/%E6%9D%A8%E9%93%A0%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/en/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
+      <atom:link href="https://thuiar.github.io/en/author/%E6%9D%A8%E9%93%A0%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <description>杨铠成</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>杨铠成</title>
-      <link>https://thuiar.mfy.world/en/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
+      <link>https://thuiar.github.io/en/author/%E6%9D%A8%E9%93%A0%E6%88%90/</link>
     </image>
     
     <item>
       <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
-      <link>https://thuiar.mfy.world/en/paper/cmbert/</link>
+      <link>https://thuiar.github.io/en/paper/cmbert/</link>
       <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.mfy.world/en/paper/cmbert/</guid>
+      <guid>https://thuiar.github.io/en/paper/cmbert/</guid>
       <description></description>
     </item>
     

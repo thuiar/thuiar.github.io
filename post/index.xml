@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | 清华大学IAR研究组</title>
-    <link>https://thuiar.mfy.world/post/</link>
-      <atom:link href="https://thuiar.mfy.world/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/post/</link>
+      <atom:link href="https://thuiar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://thuiar.mfy.world/post/</link>
+      <link>https://thuiar.github.io/post/</link>
     </image>
     
   </channel>

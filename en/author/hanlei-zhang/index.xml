@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanlei Zhang | THUIAR</title>
-    <link>https://thuiar.mfy.world/en/author/hanlei-zhang/</link>
-      <atom:link href="https://thuiar.mfy.world/en/author/hanlei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/en/author/hanlei-zhang/</link>
+      <atom:link href="https://thuiar.github.io/en/author/hanlei-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanlei Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Sat, 31 Aug 2019 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hanlei Zhang</title>
-      <link>https://thuiar.mfy.world/en/author/hanlei-zhang/</link>
+      <link>https://thuiar.github.io/en/author/hanlei-zhang/</link>
     </image>
     
     <item>
       <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
-      <link>https://thuiar.mfy.world/en/paper/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
+      <link>https://thuiar.github.io/en/paper/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.mfy.world/en/paper/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
+      <guid>https://thuiar.github.io/en/paper/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
       <description></description>
     </item>
     
