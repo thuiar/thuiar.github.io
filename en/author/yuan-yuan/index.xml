@@ -5,12 +5,36 @@
     <link>https://thuiar.mfy.world/en/author/yuan-yuan/</link>
       <atom:link href="https://thuiar.mfy.world/en/author/yuan-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuan Yuan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yuan Yuan</title>
       <link>https://thuiar.mfy.world/en/author/yuan-yuan/</link>
     </image>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thuiar.mfy.world/en/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thuiar.mfy.world/en/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Reduction in Many-Objective Optimization: Evolutionary Multiobjective Approaches and Comprehensive Analysis</title>
+      <link>https://thuiar.mfy.world/en/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

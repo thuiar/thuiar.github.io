@@ -5,12 +5,36 @@
     <link>https://thuiar.mfy.world/en/author/jia-li/</link>
       <atom:link href="https://thuiar.mfy.world/en/author/jia-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jia Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.mfy.world/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jia Li</title>
       <link>https://thuiar.mfy.world/en/author/jia-li/</link>
     </image>
+    
+    <item>
+      <title>A joint model of extended LDA and IBTM over streaming Chinese short texts</title>
+      <link>https://thuiar.mfy.world/en/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastBTM: Reducing the Sampling Time for Biterm Topic Model</title>
+      <link>https://thuiar.mfy.world/en/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
+      <link>https://thuiar.mfy.world/en/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
+      <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.mfy.world/en/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
