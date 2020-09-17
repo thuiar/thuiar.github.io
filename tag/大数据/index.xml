@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大数据 | 清华大学IAR研究组</title>
-    <link>https://thuiar.github.io/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link>
-      <atom:link href="https://thuiar.github.io/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.mfy.world/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link>
+      <atom:link href="https://thuiar.mfy.world/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
     <description>大数据</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 15:43:29 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.github.io/images/icon_hu567f3c4584c57b3f785b0cf14a6c40f6_148906_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.mfy.world/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>大数据</title>
-      <link>https://thuiar.github.io/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link>
+      <link>https://thuiar.mfy.world/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link>
     </image>
     
     <item>
       <title>大数据技术及行业应用</title>
-      <link>https://thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</link>
+      <link>https://thuiar.mfy.world/textbook/bigdatatechnologyandindustryapplications/</link>
       <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <guid>https://thuiar.mfy.world/textbook/bigdatatechnologyandindustryapplications/</guid>
       <description></description>
     </item>
     
