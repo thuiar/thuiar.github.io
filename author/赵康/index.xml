@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>赵康 | 清华大学IAR研究组</title>
-    <link>https://thuiar.mfy.world/author/%E8%B5%B5%E5%BA%B7/</link>
-      <atom:link href="https://thuiar.mfy.world/author/%E8%B5%B5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/author/%E8%B5%B5%E5%BA%B7/</link>
+      <atom:link href="https://thuiar.github.io/author/%E8%B5%B5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>赵康</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>赵康</title>
-      <link>https://thuiar.mfy.world/author/%E8%B5%B5%E5%BA%B7/</link>
+      <link>https://thuiar.github.io/author/%E8%B5%B5%E5%BA%B7/</link>
     </image>
     
   </channel>

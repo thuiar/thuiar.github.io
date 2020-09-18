@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>邹纪云 | 清华大学IAR研究组</title>
-    <link>https://thuiar.mfy.world/author/%E9%82%B9%E7%BA%AA%E4%BA%91/</link>
-      <atom:link href="https://thuiar.mfy.world/author/%E9%82%B9%E7%BA%AA%E4%BA%91/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/author/%E9%82%B9%E7%BA%AA%E4%BA%91/</link>
+      <atom:link href="https://thuiar.github.io/author/%E9%82%B9%E7%BA%AA%E4%BA%91/index.xml" rel="self" type="application/rss+xml" />
     <description>邹纪云</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>邹纪云</title>
-      <link>https://thuiar.mfy.world/author/%E9%82%B9%E7%BA%AA%E4%BA%91/</link>
+      <link>https://thuiar.github.io/author/%E9%82%B9%E7%BA%AA%E4%BA%91/</link>
     </image>
     
     <item>
       <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
-      <link>https://thuiar.mfy.world/publication/hgfm/</link>
+      <link>https://thuiar.github.io/publication/hgfm/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.mfy.world/publication/hgfm/</guid>
+      <guid>https://thuiar.github.io/publication/hgfm/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杨聪聪 | 清华大学IAR研究组</title>
-    <link>https://thuiar.mfy.world/author/%E6%9D%A8%E8%81%AA%E8%81%AA/</link>
-      <atom:link href="https://thuiar.mfy.world/author/%E6%9D%A8%E8%81%AA%E8%81%AA/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/author/%E6%9D%A8%E8%81%AA%E8%81%AA/</link>
+      <atom:link href="https://thuiar.github.io/author/%E6%9D%A8%E8%81%AA%E8%81%AA/index.xml" rel="self" type="application/rss+xml" />
     <description>杨聪聪</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Sat, 31 Aug 2019 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>杨聪聪</title>
-      <link>https://thuiar.mfy.world/author/%E6%9D%A8%E8%81%AA%E8%81%AA/</link>
+      <link>https://thuiar.github.io/author/%E6%9D%A8%E8%81%AA%E8%81%AA/</link>
     </image>
     
     <item>
       <title>Multi-Channel Convolutional Neural Networks with Adversarial Training for Few-Shot Relation Classification</title>
-      <link>https://thuiar.mfy.world/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</link>
+      <link>https://thuiar.github.io/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.mfy.world/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</guid>
+      <guid>https://thuiar.github.io/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</guid>
       <description></description>
     </item>
     

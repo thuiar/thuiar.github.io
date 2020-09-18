@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | THUIAR</title>
-    <link>https://thuiar.mfy.world/en/authors/</link>
-      <atom:link href="https://thuiar.mfy.world/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuiar.github.io/en/authors/</link>
+      <atom:link href="https://thuiar.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.mfy.world/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://thuiar.mfy.world/en/authors/</link>
+      <link>https://thuiar.github.io/en/authors/</link>
     </image>
     
   </channel>
