@@ -5,12 +5,96 @@
     <link>https://thuiar.github.io/en/talk/</link>
       <atom:link href="https://thuiar.github.io/en/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://thuiar.github.io/en/talk/</link>
     </image>
+    
+    <item>
+      <title>Internet product design</title>
+      <link>https://thuiar.github.io/en/talk/internet-product-design/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/internet-product-design/</guid>
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2019 - Today&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Mobile Robot: Design, Programming and Practice</title>
+      <link>https://thuiar.github.io/en/talk/intelligent-mobile-robot/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/intelligent-mobile-robot/</guid>
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2016 - Today&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial Data Mining</title>
+      <link>https://thuiar.github.io/en/talk/industrial-data-mining/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/industrial-data-mining/</guid>
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Graduate and Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2013 - Today&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Mining: Methods and Applications</title>
+      <link>https://thuiar.github.io/en/talk/data-mining-method-and-application/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/data-mining-method-and-application/</guid>
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2011 - Today&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Strcture</title>
+      <link>https://thuiar.github.io/en/talk/data-structure-cs/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/data-structure-cs/</guid>
+      <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Undergraduate Professional Basic Course&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
+&lt;p&gt;Target Audience: Computer Science Undergraduate&lt;/p&gt;
+&lt;p&gt;Teaching Time：2001 - 2006&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Strcture</title>
+      <link>https://thuiar.github.io/en/talk/data-structure/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/data-structure/</guid>
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2002 - Today&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Geometry</title>
+      <link>https://thuiar.github.io/en/talk/computational-geometry/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/computational-geometry/</guid>
+      <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Graduate Basic Theory Course&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng, Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Graduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：1997 - Today&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -1305,6 +1305,36 @@
   </url>
   
   <url>
+    <loc>https://thuiar.github.io/en/talk/internet-product-design/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/internet-product-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/internet-product-design/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/en/talk/</loc>
+    <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.github.io/en/categories/</loc>
     <lastmod>2017-09-01T15:43:29+08:00</lastmod>
     <xhtml:link
@@ -1395,6 +1425,96 @@
   </url>
   
   <url>
+    <loc>https://thuiar.github.io/en/talk/intelligent-mobile-robot/</loc>
+    <lastmod>2016-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/intelligent-mobile-robot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/intelligent-mobile-robot/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/en/talk/industrial-data-mining/</loc>
+    <lastmod>2013-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/industrial-data-mining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/industrial-data-mining/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/en/talk/data-mining-method-and-application/</loc>
+    <lastmod>2011-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/data-mining-method-and-application/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/data-mining-method-and-application/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/en/talk/data-structure-cs/</loc>
+    <lastmod>2001-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/data-structure-cs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/data-structure-cs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/en/talk/data-structure/</loc>
+    <lastmod>2001-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/data-structure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/data-structure/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/en/talk/computational-geometry/</loc>
+    <lastmod>1997-01-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/talk/computational-geometry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/en/talk/computational-geometry/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.github.io/en/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1405,20 +1525,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/en/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.github.io/en/talk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/en/talk/"
                 />
   </url>
   

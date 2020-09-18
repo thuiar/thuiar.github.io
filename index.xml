@@ -429,6 +429,18 @@
     </item>
     
     <item>
+      <title>《互联网产品设计》</title>
+      <link>https://thuiar.github.io/talk/internet-product-design/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/talk/internet-product-design/</guid>
+      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
+&lt;p&gt;主讲教师：徐华&lt;/p&gt;
+&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
+&lt;p&gt;授课时间：2019 - 今&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
       <link>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
       <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
@@ -437,10 +449,58 @@
     </item>
     
     <item>
-      <title>《数据结构》(TH00240074)</title>
-      <link>https://thuiar.github.io/talk/th00240074/</link>
+      <title>《智能移动机器人：设计、编程与实践》</title>
+      <link>https://thuiar.github.io/talk/intelligent-mobile-robot/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/talk/intelligent-mobile-robot/</guid>
+      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
+&lt;p&gt;主讲教师：徐华&lt;/p&gt;
+&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
+&lt;p&gt;授课时间：2016-今&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>《工业数据挖掘》</title>
+      <link>https://thuiar.github.io/talk/industrial-data-mining/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/talk/industrial-data-mining/</guid>
+      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
+&lt;p&gt;主讲教师：徐华&lt;/p&gt;
+&lt;p&gt;授课对象：全校本科生、研究生&lt;/p&gt;
+&lt;p&gt;授课时间：2013 - 今&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>《数据挖局：方法与应用》</title>
+      <link>https://thuiar.github.io/talk/data-mining-method-and-application/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/talk/data-mining-method-and-application/</guid>
+      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
+&lt;p&gt;主讲教师：徐华&lt;/p&gt;
+&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
+&lt;p&gt;授课时间：2011 - 今&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>《数据结构》</title>
+      <link>https://thuiar.github.io/talk/data-structure-cs/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/th00240074/</guid>
+      <guid>https://thuiar.github.io/talk/data-structure-cs/</guid>
+      <description>&lt;p&gt;课程类型：清华大学计算机系本科生专业基础课&lt;/p&gt;
+&lt;p&gt;主讲教师：邓俊辉&lt;/p&gt;
+&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
+&lt;p&gt;授课时间：2001 - 2006&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>《数据结构》</title>
+      <link>https://thuiar.github.io/talk/data-structure/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/talk/data-structure/</guid>
       <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
 &lt;p&gt;主讲教师：邓俊辉&lt;/p&gt;
 &lt;p&gt;授课对象：全校本科生&lt;/p&gt;
@@ -449,10 +509,10 @@
     </item>
     
     <item>
-      <title>《计算几何》(TH70240183)</title>
-      <link>https://thuiar.github.io/talk/th70240183/</link>
+      <title>《计算几何》</title>
+      <link>https://thuiar.github.io/talk/computational-geometry/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/th70240183/</guid>
+      <guid>https://thuiar.github.io/talk/computational-geometry/</guid>
       <description>&lt;p&gt;课程类型：清华大学计算机系研究生基础理论课&lt;/p&gt;
 &lt;p&gt;主讲教师：邓俊辉，徐华&lt;/p&gt;
 &lt;p&gt;授课对象：全校研究生&lt;/p&gt;

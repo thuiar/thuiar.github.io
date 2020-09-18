@@ -44,5 +44,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Data Strcture</title>
+      <link>https://thuiar.github.io/en/talk/data-structure-cs/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/data-structure-cs/</guid>
+      <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Undergraduate Professional Basic Course&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
+&lt;p&gt;Target Audience: Computer Science Undergraduate&lt;/p&gt;
+&lt;p&gt;Teaching Time：2001 - 2006&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Strcture</title>
+      <link>https://thuiar.github.io/en/talk/data-structure/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/data-structure/</guid>
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2002 - Today&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Geometry</title>
+      <link>https://thuiar.github.io/en/talk/computational-geometry/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://thuiar.github.io/en/talk/computational-geometry/</guid>
+      <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Graduate Basic Theory Course&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng, Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Graduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：1997 - Today&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
