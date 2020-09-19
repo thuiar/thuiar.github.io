@@ -1,4 +1,4 @@
-# The official website of THUIAR 
+# The Official Website of THUIAR 
 
 Made by **[Fanyang Meng](https://github.com/MFYDev)** with 💖 and 😁.
 
