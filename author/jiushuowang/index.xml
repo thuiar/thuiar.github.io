@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JiushuoWang | THUIAR</title>
+    <link>https://thuiar.github.io/author/jiushuowang/</link>
+      <atom:link href="https://thuiar.github.io/author/jiushuowang/index.xml" rel="self" type="application/rss+xml" />
+    <description>JiushuoWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>JiushuoWang</title>
+      <link>https://thuiar.github.io/author/jiushuowang/</link>
+    </image>
+    
+    <item>
+      <title>A rule-based approach to emotion cause detection for Chinese micro-blogs</title>
+      <link>https://thuiar.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Cause Detection for Chinese Micro-Blogs Based on ECOCC Model</title>
+      <link>https://thuiar.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical emotion classification and emotion component analysis on chinese micro-blog posts</title>
+      <link>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

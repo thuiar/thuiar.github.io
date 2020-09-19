@@ -333,14 +333,6 @@
     </item>
     
     <item>
-      <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
-      <link>https://thuiar.github.io/zh/publication/chsims/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/zh/publication/chsims/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
       <link>https://thuiar.github.io/zh/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
@@ -381,6 +373,22 @@
     </item>
     
     <item>
+      <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
+      <link>https://thuiar.github.io/zh/publication/chsims/</link>
+      <pubDate>Sun, 12 Jul 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/chsims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous graph neural networks for noisy few-shot relation classification</title>
+      <link>https://thuiar.github.io/zh/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
       <link>https://thuiar.github.io/zh/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
@@ -397,6 +405,38 @@
     </item>
     
     <item>
+      <title>Deep Unknown Intent Detection with Margin Loss</title>
+      <link>https://thuiar.github.io/zh/publication/deep-unknown-intent-detection-with-margin-loss/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/deep-unknown-intent-detection-with-margin-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier</title>
+      <link>https://thuiar.github.io/zh/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Exploration and Exploitation in Multiobjective Batch Bayesian Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy Multiobjective Black-Box Optimization Using Bayesian Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>《互联网产品设计》</title>
       <link>https://thuiar.github.io/zh/talk/internet-product-design/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
@@ -409,10 +449,42 @@
     </item>
     
     <item>
+      <title>Two-Stage Attention Network for Aspect-Level Sentiment Classification</title>
+      <link>https://thuiar.github.io/zh/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
       <link>https://thuiar.github.io/zh/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
       <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/zh/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitHash: An efficient bitwise Locality Sensitive Hashing method with applications</title>
+      <link>https://thuiar.github.io/zh/publication/bithash/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/bithash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding overlapping community from social networks based on community forest model</title>
+      <link>https://thuiar.github.io/zh/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-IBTM: An Online Framework for Hashtag Suggestion in Twitter</title>
+      <link>https://thuiar.github.io/zh/publication/user-ibtm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/user-ibtm/</guid>
       <description></description>
     </item>
     
@@ -429,6 +501,166 @@
     </item>
     
     <item>
+      <title>A novel disjoint community detection algorithm for social networks based on backbone degree and expansion</title>
+      <link>https://thuiar.github.io/zh/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rule-based approach to emotion cause detection for Chinese micro-blogs</title>
+      <link>https://thuiar.github.io/zh/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Investigation of Variation Operators in Reference-Point Based Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese comments sentiment classification based on word2vec and SVMperf</title>
+      <link>https://thuiar.github.io/zh/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Cause Detection for Chinese Micro-Blogs Based on ECOCC Model</title>
+      <link>https://thuiar.github.io/zh/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical emotion classification and emotion component analysis on chinese micro-blog posts</title>
+      <link>https://thuiar.github.io/zh/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit feature identification in Chinese reviews using explicit topic mining model</title>
+      <link>https://thuiar.github.io/zh/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Two-Level Hierarchical EDA Using Conjugate Priori</title>
+      <link>https://thuiar.github.io/zh/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved NSGA-III Procedure for Evolutionary Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Box office prediction based on microblog</title>
+      <link>https://thuiar.github.io/zh/publication/box-office-prediction-based-on-microblog/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/box-office-prediction-based-on-microblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
+      <link>https://thuiar.github.io/zh/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Many-Objective Optimization Using Ensemble Fitness Ranking</title>
+      <link>https://thuiar.github.io/zh/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-based emotion classification using emotion cause extraction</title>
+      <link>https://thuiar.github.io/zh/publication/text-based-emotion-classification-using-emotion-cause-extraction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/text-based-emotion-classification-using-emotion-cause-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Feature Detection via a Constrained Topic Model and SVM</title>
+      <link>https://thuiar.github.io/zh/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid harmony search algorithm for the flexible job shop scheduling problem</title>
+      <link>https://thuiar.github.io/zh/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memetic Algorithm for the Multi-Objective Flexible Job Shop Scheduling Problem</title>
+      <link>https://thuiar.github.io/zh/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated search heuristic for large-scale flexible job shop scheduling problems</title>
+      <link>https://thuiar.github.io/zh/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective search for genetic-based machine learning systems via estimation of distribution algorithms and embedded feature reduction techniques</title>
+      <link>https://thuiar.github.io/zh/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible job shop scheduling using hybrid differential evolution algorithms</title>
+      <link>https://thuiar.github.io/zh/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit feature identification via hybrid association rule mining</title>
+      <link>https://thuiar.github.io/zh/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>《工业数据挖掘》</title>
       <link>https://thuiar.github.io/zh/talk/industrial-data-mining/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
@@ -441,6 +673,86 @@
     </item>
     
     <item>
+      <title>Effective search for Pittsburgh learning classifier systems via estimation of distribution algorithms</title>
+      <link>https://thuiar.github.io/zh/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakness Finder: Find product weakness from Chinese reviews by using aspects based sentiment analysis</title>
+      <link>https://thuiar.github.io/zh/publication/weakness-finder/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/weakness-finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A heuristic-based hybrid genetic-variable neighborhood search algorithm for task scheduling in heterogeneous multiprocessor system</title>
+      <link>https://thuiar.github.io/zh/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
+      <link>https://thuiar.github.io/zh/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Product Features for Opinion Mining</title>
+      <link>https://thuiar.github.io/zh/publication/clustering-product-features-for-opinion-mining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/clustering-product-features-for-opinion-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained LDA for Grouping Product Features in Opinion Mining</title>
+      <link>https://thuiar.github.io/zh/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting effective features for Chinese sentiment classification</title>
+      <link>https://thuiar.github.io/zh/publication/exploiting-effective-features-for-chinese-sentiment-classification/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/exploiting-effective-features-for-chinese-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Evaluative Sentences in Online Discussions</title>
+      <link>https://thuiar.github.io/zh/publication/identifying-evaluative-sentences-in-online-discussions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/identifying-evaluative-sentences-in-online-discussions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questionnaires-based skin attribute prediction using Elman neural network</title>
+      <link>https://thuiar.github.io/zh/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task scheduling using Bayesian optimization algorithm for heterogeneous computing environments</title>
+      <link>https://thuiar.github.io/zh/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>《数据挖掘：方法与应用》</title>
       <link>https://thuiar.github.io/zh/talk/data-mining-method-and-application/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
@@ -450,6 +762,54 @@
 &lt;p&gt;授课对象：全校本科生&lt;/p&gt;
 &lt;p&gt;授课时间：2011 - 今&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Grouping Product Features Using Semi-Supervised Learning with Soft-Constraints</title>
+      <link>https://thuiar.github.io/zh/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Heuristic-Based Hybrid Genetic Algorithm for Heterogeneous Multiprocessor Scheduling</title>
+      <link>https://thuiar.github.io/zh/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Unsupervised Sentiment Classification of Chinese Reviews</title>
+      <link>https://thuiar.github.io/zh/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Structure Learning for EDA via L1-Regularizedbayesian Networks</title>
+      <link>https://thuiar.github.io/zh/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Subsumption for Sentiment Classification in Multiple Languages</title>
+      <link>https://thuiar.github.io/zh/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
+      <link>https://thuiar.github.io/zh/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</guid>
+      <description></description>
     </item>
     
     <item>

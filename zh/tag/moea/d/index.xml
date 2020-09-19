@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;MOEA/D&#34; | 清华大学IAR研究组</title>
+    <link>https://thuiar.github.io/zh/tag/moea/d/</link>
+      <atom:link href="https://thuiar.github.io/zh/tag/moea/d/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;MOEA/D&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;MOEA/D&#34;</title>
+      <link>https://thuiar.github.io/zh/tag/moea/d/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary Many-Objective Optimization Using Ensemble Fitness Ranking</title>
+      <link>https://thuiar.github.io/zh/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

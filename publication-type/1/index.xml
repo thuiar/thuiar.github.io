@@ -61,10 +61,178 @@
     </item>
     
     <item>
+      <title>Deep Unknown Intent Detection with Margin Loss</title>
+      <link>https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Exploration and Exploitation in Multiobjective Batch Bayesian Optimization</title>
+      <link>https://thuiar.github.io/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy Multiobjective Black-Box Optimization Using Bayesian Optimization</title>
+      <link>https://thuiar.github.io/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Stage Attention Network for Aspect-Level Sentiment Classification</title>
+      <link>https://thuiar.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
       <link>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
       <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-IBTM: An Online Framework for Hashtag Suggestion in Twitter</title>
+      <link>https://thuiar.github.io/publication/user-ibtm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/user-ibtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Investigation of Variation Operators in Reference-Point Based Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Cause Detection for Chinese Micro-Blogs Based on ECOCC Model</title>
+      <link>https://thuiar.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Two-Level Hierarchical EDA Using Conjugate Priori</title>
+      <link>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved NSGA-III Procedure for Evolutionary Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
+      <link>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Many-Objective Optimization Using Ensemble Fitness Ranking</title>
+      <link>https://thuiar.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Feature Detection via a Constrained Topic Model and SVM</title>
+      <link>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memetic Algorithm for the Multi-Objective Flexible Job Shop Scheduling Problem</title>
+      <link>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Product Features for Opinion Mining</title>
+      <link>https://thuiar.github.io/publication/clustering-product-features-for-opinion-mining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/clustering-product-features-for-opinion-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained LDA for Grouping Product Features in Opinion Mining</title>
+      <link>https://thuiar.github.io/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Evaluative Sentences in Online Discussions</title>
+      <link>https://thuiar.github.io/publication/identifying-evaluative-sentences-in-online-discussions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/identifying-evaluative-sentences-in-online-discussions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouping Product Features Using Semi-Supervised Learning with Soft-Constraints</title>
+      <link>https://thuiar.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Heuristic-Based Hybrid Genetic Algorithm for Heterogeneous Multiprocessor Scheduling</title>
+      <link>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Structure Learning for EDA via L1-Regularizedbayesian Networks</title>
+      <link>https://thuiar.github.io/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Subsumption for Sentiment Classification in Multiple Languages</title>
+      <link>https://thuiar.github.io/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
+      <link>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</guid>
       <description></description>
     </item>
     

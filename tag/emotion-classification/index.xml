@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Emotion classification&#34; | THUIAR</title>
+    <link>https://thuiar.github.io/tag/emotion-classification/</link>
+      <atom:link href="https://thuiar.github.io/tag/emotion-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Emotion classification&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Emotion classification&#34;</title>
+      <link>https://thuiar.github.io/tag/emotion-classification/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical emotion classification and emotion component analysis on chinese micro-blog posts</title>
+      <link>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-based emotion classification using emotion cause extraction</title>
+      <link>https://thuiar.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

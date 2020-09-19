@@ -60,5 +60,197 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Heterogeneous graph neural networks for noisy few-shot relation classification</title>
+      <link>https://thuiar.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier</title>
+      <link>https://thuiar.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitHash: An efficient bitwise Locality Sensitive Hashing method with applications</title>
+      <link>https://thuiar.github.io/publication/bithash/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/bithash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding overlapping community from social networks based on community forest model</title>
+      <link>https://thuiar.github.io/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel disjoint community detection algorithm for social networks based on backbone degree and expansion</title>
+      <link>https://thuiar.github.io/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rule-based approach to emotion cause detection for Chinese micro-blogs</title>
+      <link>https://thuiar.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese comments sentiment classification based on word2vec and SVMperf</title>
+      <link>https://thuiar.github.io/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical emotion classification and emotion component analysis on chinese micro-blog posts</title>
+      <link>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit feature identification in Chinese reviews using explicit topic mining model</title>
+      <link>https://thuiar.github.io/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Box office prediction based on microblog</title>
+      <link>https://thuiar.github.io/publication/box-office-prediction-based-on-microblog/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/box-office-prediction-based-on-microblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-based emotion classification using emotion cause extraction</title>
+      <link>https://thuiar.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid harmony search algorithm for the flexible job shop scheduling problem</title>
+      <link>https://thuiar.github.io/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated search heuristic for large-scale flexible job shop scheduling problems</title>
+      <link>https://thuiar.github.io/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective search for genetic-based machine learning systems via estimation of distribution algorithms and embedded feature reduction techniques</title>
+      <link>https://thuiar.github.io/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible job shop scheduling using hybrid differential evolution algorithms</title>
+      <link>https://thuiar.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit feature identification via hybrid association rule mining</title>
+      <link>https://thuiar.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective search for Pittsburgh learning classifier systems via estimation of distribution algorithms</title>
+      <link>https://thuiar.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakness Finder: Find product weakness from Chinese reviews by using aspects based sentiment analysis</title>
+      <link>https://thuiar.github.io/publication/weakness-finder/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/weakness-finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A heuristic-based hybrid genetic-variable neighborhood search algorithm for task scheduling in heterogeneous multiprocessor system</title>
+      <link>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
+      <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting effective features for Chinese sentiment classification</title>
+      <link>https://thuiar.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questionnaires-based skin attribute prediction using Elman neural network</title>
+      <link>https://thuiar.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task scheduling using Bayesian optimization algorithm for heterogeneous computing environments</title>
+      <link>https://thuiar.github.io/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Unsupervised Sentiment Classification of Chinese Reviews</title>
+      <link>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

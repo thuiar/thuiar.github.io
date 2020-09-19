@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZhongwuZhai | 清华大学IAR研究组</title>
+    <link>https://thuiar.github.io/zh/author/zhongwuzhai/</link>
+      <atom:link href="https://thuiar.github.io/zh/author/zhongwuzhai/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZhongwuZhai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>ZhongwuZhai</title>
+      <link>https://thuiar.github.io/zh/author/zhongwuzhai/</link>
+    </image>
+    
+    <item>
+      <title>Clustering Product Features for Opinion Mining</title>
+      <link>https://thuiar.github.io/zh/publication/clustering-product-features-for-opinion-mining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/clustering-product-features-for-opinion-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained LDA for Grouping Product Features in Opinion Mining</title>
+      <link>https://thuiar.github.io/zh/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting effective features for Chinese sentiment classification</title>
+      <link>https://thuiar.github.io/zh/publication/exploiting-effective-features-for-chinese-sentiment-classification/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/exploiting-effective-features-for-chinese-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Evaluative Sentences in Online Discussions</title>
+      <link>https://thuiar.github.io/zh/publication/identifying-evaluative-sentences-in-online-discussions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/identifying-evaluative-sentences-in-online-discussions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouping Product Features Using Semi-Supervised Learning with Soft-Constraints</title>
+      <link>https://thuiar.github.io/zh/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Unsupervised Sentiment Classification of Chinese Reviews</title>
+      <link>https://thuiar.github.io/zh/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Subsumption for Sentiment Classification in Multiple Languages</title>
+      <link>https://thuiar.github.io/zh/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

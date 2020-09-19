@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Deep Unknown Intent Detection with Margin Loss</title>
+      <link>https://thuiar.github.io/zh/publication/deep-unknown-intent-detection-with-margin-loss/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/deep-unknown-intent-detection-with-margin-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier</title>
+      <link>https://thuiar.github.io/zh/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

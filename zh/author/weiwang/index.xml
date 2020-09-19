@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeiWang | 清华大学IAR研究组</title>
+    <link>https://thuiar.github.io/zh/author/weiwang/</link>
+      <atom:link href="https://thuiar.github.io/zh/author/weiwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>WeiWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>WeiWang</title>
+      <link>https://thuiar.github.io/zh/author/weiwang/</link>
+    </image>
+    
+    <item>
+      <title>Implicit feature identification in Chinese reviews using explicit topic mining model</title>
+      <link>https://thuiar.github.io/zh/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
+      <link>https://thuiar.github.io/zh/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Feature Detection via a Constrained Topic Model and SVM</title>
+      <link>https://thuiar.github.io/zh/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit feature identification via hybrid association rule mining</title>
+      <link>https://thuiar.github.io/zh/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

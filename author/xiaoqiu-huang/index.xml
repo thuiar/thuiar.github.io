@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoqiu Huang | THUIAR</title>
+    <link>https://thuiar.github.io/author/xiaoqiu-huang/</link>
+      <atom:link href="https://thuiar.github.io/author/xiaoqiu-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoqiu Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoqiu Huang</title>
+      <link>https://thuiar.github.io/author/xiaoqiu-huang/</link>
+    </image>
+    
+    <item>
+      <title>Implicit Feature Detection via a Constrained Topic Model and SVM</title>
+      <link>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

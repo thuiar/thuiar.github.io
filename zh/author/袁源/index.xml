@@ -36,5 +36,85 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Balancing Exploration and Exploitation in Multiobjective Batch Bayesian Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy Multiobjective Black-Box Optimization Using Bayesian Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Investigation of Variation Operators in Reference-Point Based Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Two-Level Hierarchical EDA Using Conjugate Priori</title>
+      <link>https://thuiar.github.io/zh/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved NSGA-III Procedure for Evolutionary Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Many-Objective Optimization Using Ensemble Fitness Ranking</title>
+      <link>https://thuiar.github.io/zh/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid harmony search algorithm for the flexible job shop scheduling problem</title>
+      <link>https://thuiar.github.io/zh/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memetic Algorithm for the Multi-Objective Flexible Job Shop Scheduling Problem</title>
+      <link>https://thuiar.github.io/zh/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated search heuristic for large-scale flexible job shop scheduling problems</title>
+      <link>https://thuiar.github.io/zh/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible job shop scheduling using hybrid differential evolution algorithms</title>
+      <link>https://thuiar.github.io/zh/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
