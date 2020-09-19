@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>袁源 | 清华大学IAR研究组</title>
+    <link>https://thuiar.github.io/zh/author/%E8%A2%81%E6%BA%90/</link>
+      <atom:link href="https://thuiar.github.io/zh/author/%E8%A2%81%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>袁源</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <title>袁源</title>
+      <link>https://thuiar.github.io/zh/author/%E8%A2%81%E6%BA%90/</link>
+    </image>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/zh/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thuiar.github.io/zh/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Reduction in Many-Objective Optimization: Evolutionary Multiobjective Approaches and Comprehensive Analysis</title>
+      <link>https://thuiar.github.io/zh/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</link>
+      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/zh/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

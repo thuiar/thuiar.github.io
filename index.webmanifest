@@ -1,7 +1,7 @@
 {
-  "name": "清华大学IAR研究组",
-  "short_name": "清华大学IAR研究组",
-  "lang": "zh-Hans",
+  "name": "THUIAR",
+  "short_name": "THUIAR",
+  "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>清华大学IAR研究组</title>
+    <title>THUIAR</title>
     <link>https://thuiar.github.io/</link>
       <atom:link href="https://thuiar.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>清华大学IAR研究组</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
+    <description>THUIAR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2020</copyright><lastBuildDate>Mon, 12 Oct 2020 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
-      <title>清华大学IAR研究组</title>
+      <title>THUIAR</title>
       <link>https://thuiar.github.io/</link>
     </image>
     
     <item>
-      <title>数据挖掘：方法与应用</title>
+      <title>Data Mining: Methodology and Applications</title>
       <link>https://thuiar.github.io/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
       <guid>https://thuiar.github.io/textbook/datamining-methodandapplication/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>数据挖掘：方法与应用——应用案例</title>
+      <title>Data Mining: Methods and Applications - Application Cases</title>
       <link>https://thuiar.github.io/textbook/datamining-methodandapplication-case/</link>
       <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
       <guid>https://thuiar.github.io/textbook/datamining-methodandapplication-case/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>大数据技术及行业应用</title>
+      <title>Big Data Technology and Industry Applications</title>
       <link>https://thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</link>
       <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
       <guid>https://thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</guid>
@@ -365,14 +365,6 @@
     </item>
     
     <item>
-      <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
-      <link>https://thuiar.github.io/publication/chsims/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/chsims/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
       <link>https://thuiar.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
@@ -413,6 +405,14 @@
     </item>
     
     <item>
+      <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
+      <link>https://thuiar.github.io/publication/chsims/</link>
+      <pubDate>Sun, 12 Jul 2020 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/chsims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
       <link>https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
@@ -429,14 +429,14 @@
     </item>
     
     <item>
-      <title>《互联网产品设计》</title>
+      <title>Internet Product Design</title>
       <link>https://thuiar.github.io/talk/internet-product-design/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/internet-product-design/</guid>
-      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
-&lt;p&gt;主讲教师：徐华&lt;/p&gt;
-&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
-&lt;p&gt;授课时间：2019 - 今&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2019 - Today&lt;/p&gt;
 </description>
     </item>
     
@@ -449,74 +449,74 @@
     </item>
     
     <item>
-      <title>《智能移动机器人：设计、编程与实践》</title>
+      <title>Intelligent Mobile Robot: Design, Programming and Practice</title>
       <link>https://thuiar.github.io/talk/intelligent-mobile-robot/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/intelligent-mobile-robot/</guid>
-      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
-&lt;p&gt;主讲教师：徐华&lt;/p&gt;
-&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
-&lt;p&gt;授课时间：2016-今&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2016 - Today&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>《工业数据挖掘》</title>
+      <title>Industrial Data Mining</title>
       <link>https://thuiar.github.io/talk/industrial-data-mining/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/industrial-data-mining/</guid>
-      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
-&lt;p&gt;主讲教师：徐华&lt;/p&gt;
-&lt;p&gt;授课对象：全校本科生、研究生&lt;/p&gt;
-&lt;p&gt;授课时间：2013 - 今&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Graduate and Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2013 - Today&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>《数据挖掘：方法与应用》</title>
+      <title>Data Mining: Methods and Applications</title>
       <link>https://thuiar.github.io/talk/data-mining-method-and-application/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/data-mining-method-and-application/</guid>
-      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
-&lt;p&gt;主讲教师：徐华&lt;/p&gt;
-&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
-&lt;p&gt;授课时间：2011 - 今&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2011 - Today&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>《数据结构》</title>
+      <title>Data Strcture</title>
       <link>https://thuiar.github.io/talk/data-structure-cs/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/data-structure-cs/</guid>
-      <description>&lt;p&gt;课程类型：清华大学计算机系本科生专业基础课&lt;/p&gt;
-&lt;p&gt;主讲教师：邓俊辉&lt;/p&gt;
-&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
-&lt;p&gt;授课时间：2001 - 2006&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Undergraduate Professional Basic Course&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
+&lt;p&gt;Target Audience: Computer Science Undergraduate&lt;/p&gt;
+&lt;p&gt;Teaching Time：2001 - 2006&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>《数据结构》</title>
+      <title>Data Strcture</title>
       <link>https://thuiar.github.io/talk/data-structure/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/data-structure/</guid>
-      <description>&lt;p&gt;课程类型：清华大学公选课&lt;/p&gt;
-&lt;p&gt;主讲教师：邓俊辉&lt;/p&gt;
-&lt;p&gt;授课对象：全校本科生&lt;/p&gt;
-&lt;p&gt;授课时间：2002 - 今&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
+&lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：2002 - Today&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>《计算几何》</title>
+      <title>Computational Geometry</title>
       <link>https://thuiar.github.io/talk/computational-geometry/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
       <guid>https://thuiar.github.io/talk/computational-geometry/</guid>
-      <description>&lt;p&gt;课程类型：清华大学计算机系研究生基础理论课&lt;/p&gt;
-&lt;p&gt;主讲教师：邓俊辉，徐华&lt;/p&gt;
-&lt;p&gt;授课对象：全校研究生&lt;/p&gt;
-&lt;p&gt;授课时间：1997 - 今&lt;/p&gt;
+      <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Graduate Basic Theory Course&lt;/p&gt;
+&lt;p&gt;Lecturer：Junhui Deng, Hua Xu&lt;/p&gt;
+&lt;p&gt;Target Audience: All Graduate Students&lt;/p&gt;
+&lt;p&gt;Teaching Time：1997 - Today&lt;/p&gt;
 </description>
     </item>
     
