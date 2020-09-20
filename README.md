@@ -1,9 +1,7 @@
-# The Official Website of THUIAR 
+# [The Official Website of THUIAR](https://thuiar.github.io)
 
 Made by **[Fanyang Meng](https://github.com/MFYDev)** with 💖 and 😁.
 
 This is the deployment files repository. 
 
-**If you want to know how to build this site, please visit [MFYDev/THUIARWeb](https://github.com/MFYDev/THUIARWeb)**.
-
-Refer to **[THUIAR Offcial Website](https://thuiar.github.io)** for more information.
+**Refer to the full repository [MFYDev/THUIARWeb](https://github.com/MFYDev/THUIARWeb) for more information**.
