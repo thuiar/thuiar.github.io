@@ -417,6 +417,21 @@
   </url>
   
   <url>
+    <loc>https://thuiar.github.io/zh/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2020-10-10T11:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.github.io/zh/author/%E7%8E%8B%E8%96%87%E9%9B%85/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1091,6 +1106,21 @@
   </url>
   
   <url>
+    <loc>https://thuiar.github.io/zh/textbook/</loc>
+    <lastmod>2020-10-10T11:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/textbook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/textbook/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.github.io/zh/publication-type/2/</loc>
     <lastmod>2020-09-19T21:38:51+08:00</lastmod>
     <xhtml:link
@@ -1747,21 +1777,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://thuiar.github.io/zh/author/xiaomingzhang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.github.io/zh/textbook/</loc>
-    <lastmod>2017-09-01T15:43:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/textbook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/textbook/"
                 />
   </url>
   
