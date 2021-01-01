@@ -1,6 +1,6 @@
 # [The Official Website of THUIAR](https://thuiar.github.io)
 
-Made by **[Fanyang Meng](https://github.com/MFYDev)** with 💖 and 😁.
+Made by **[Fanyang Meng](https://github.com/MFYDev)**.
 
 This is the deployment files repository. 
 
