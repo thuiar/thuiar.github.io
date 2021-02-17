@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://thuiar.github.io/author/hua-xu/</loc>
-    <lastmod>2020-10-12T16:24:04+08:00</lastmod>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -14,6 +14,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/author/hua-xu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/author/wenmeng-yu/</loc>
+    <lastmod>2021-02-15T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/%E4%BD%99%E6%96%87%E6%A2%A6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/wenmeng-yu/"
                 />
   </url>
   
@@ -29,21 +44,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/author/kaicheng-yang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.github.io/author/wenmeng-yu/</loc>
-    <lastmod>2020-07-12T15:24:04+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/author/%E4%BD%99%E6%96%87%E6%A2%A6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/author/wenmeng-yu/"
                 />
   </url>
   
@@ -301,7 +301,7 @@
   
   <url>
     <loc>https://thuiar.github.io/author/hanlei-zhang/</loc>
-    <lastmod>2019-08-31T15:24:04+08:00</lastmod>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -536,6 +536,21 @@
   </url>
   
   <url>
+    <loc>https://thuiar.github.io/author/tingen-lin/</loc>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/%E6%9E%97%E5%BB%B7%E6%81%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/tingen-lin/"
+                />
+  </url>
+  
+  <url>
     <loc>https://thuiar.github.io/author/yuxiang-xie/</loc>
     <lastmod>2020-09-19T21:38:35+08:00</lastmod>
     <xhtml:link
@@ -547,21 +562,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/author/yuxiang-xie/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.github.io/author/tingen-lin/</loc>
-    <lastmod>2020-09-19T21:38:36+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/author/%E6%9E%97%E5%BB%B7%E6%81%A9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/author/tingen-lin/"
                 />
   </url>
   
@@ -1032,7 +1032,7 @@
   
   <url>
     <loc>https://thuiar.github.io/publication-type/1/</loc>
-    <lastmod>2020-10-12T16:24:04+08:00</lastmod>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -1047,7 +1047,7 @@
   
   <url>
     <loc>https://thuiar.github.io/publication/</loc>
-    <lastmod>2020-10-12T16:24:04+08:00</lastmod>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -1062,7 +1062,7 @@
   
   <url>
     <loc>https://thuiar.github.io/authors/</loc>
-    <lastmod>2020-10-12T16:24:04+08:00</lastmod>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -1072,6 +1072,126 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/publication/deepaligned-clustering/</loc>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication/deepaligned-clustering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication/deepaligned-clustering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/publication_types/</loc>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/author/ruilv/</loc>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/ruilv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/ruilv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/</loc>
+    <lastmod>2021-02-17T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/publication/adaptive-decision-boundary/</loc>
+    <lastmod>2021-02-16T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication/adaptive-decision-boundary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication/adaptive-decision-boundary/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/author/jielewu/</loc>
+    <lastmod>2021-02-15T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/jielewu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/jielewu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/publication/self-mm/</loc>
+    <lastmod>2021-02-15T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication/self-mm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication/self-mm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/author/ziqiyuan/</loc>
+    <lastmod>2021-02-15T18:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/ziqiyuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/ziqiyuan/"
                 />
   </url>
   
@@ -1087,36 +1207,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/publication/cmbert/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.github.io/publication_types/</loc>
-    <lastmod>2020-10-12T16:24:04+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://thuiar.github.io/</loc>
-    <lastmod>2020-10-12T16:24:04+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/"
                 />
   </url>
   
