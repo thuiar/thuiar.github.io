@@ -357,21 +357,6 @@
   </url>
   
   <url>
-    <loc>https://thuiar.github.io/zh/author/%E5%AD%9F%E7%B9%81%E9%98%B3/</loc>
-    <lastmod>2020-07-12T15:24:04+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/author/fanyang-meng/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/author/%E5%AD%9F%E7%B9%81%E9%98%B3/"
-                />
-  </url>
-  
-  <url>
     <loc>https://thuiar.github.io/zh/textbook/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</loc>
     <lastmod>2006-02-01T15:43:29+08:00</lastmod>
     <xhtml:link
@@ -1357,6 +1342,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://thuiar.github.io/zh/publication/chsims/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thuiar.github.io/zh/author/fanyangmeng/</loc>
+    <lastmod>2020-07-12T15:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/fanyangmeng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/fanyangmeng/"
                 />
   </url>
   
