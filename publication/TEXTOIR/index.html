@@ -30,12 +30,12 @@
   
     
   
-  <meta name="description" content="Identifying new user intents is an essential task in the dialogue system. However, it is hard to get satisfying clustering results since the definition of intents is strongly guided by prior knowledge. Existing methods incorporate prior knowledge by intensive feature engineering, which not only leads to overfitting but also makes it sensitive to the number of clusters. In this paper, we propose constrained deep adaptive clustering with cluster refinement (CDAC&#43;), an end-to-end clustering method that can naturally incorporate pairwise constraints as prior knowledge to guide the clustering process. Moreover, we refine the clusters by forcing the model to learn from the high confidence assignments. After eliminating low confidence assignments, our approach is surprisingly insensitive to the number of clusters. Experimental results on the three benchmark datasets show that our method can yield significant improvements over strong baselines.">
+  <meta name="description" content="Discovering new intents is a crucial task in dialogue systems. Most existing methods are limited in transferring the prior knowledge from known intents to new intents. These methods also have difficulties in providing high-quality supervised signals to learn clustering-friendly features for grouping unlabeled intents. In this work, we propose an effective method (Deep Aligned Clustering) to discover new intents with the aid of limited known intent data. Firstly, we leverage a few labeled known intent samples as prior knowledge to pre-train the model. Then, we perform k-means to produce cluster assignments as pseudo-labels. Moreover, we propose an alignment strategy to tackle the label inconsistency problem during clustering assignments. Finally, we learn the intent representations under the supervision of the aligned pseudo-labels. With an unknown number of new intents, we predict the number of intent categories by eliminating lowconfidence intent-wise clusters. Extensive experiments on two benchmark datasets show that our method is more robust and achieves substantial improvements over the state-of-theart methods.">
 
   
-  <link rel="alternate" hreflang="zh" href="https://thuiar.github.io/zh/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/">
+  <link rel="alternate" hreflang="zh" href="https://thuiar.github.io/zh/publication/TEXTOIR/">
   
-  <link rel="alternate" hreflang="en-us" href="https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/">
+  <link rel="alternate" hreflang="en-us" href="https://thuiar.github.io/publication/TEXTOIR/">
 
   
 
@@ -257,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_huf9441868456af88e4429501459a79a2b_153180_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf9441868456af88e4429501459a79a2b_153180_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/">
+  <link rel="canonical" href="https://thuiar.github.io/publication/TEXTOIR/">
 
   
   
@@ -272,15 +272,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="THUIAR">
-  <meta property="og:url" content="https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/">
-  <meta property="og:title" content="Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement | THUIAR">
-  <meta property="og:description" content="Identifying new user intents is an essential task in the dialogue system. However, it is hard to get satisfying clustering results since the definition of intents is strongly guided by prior knowledge. Existing methods incorporate prior knowledge by intensive feature engineering, which not only leads to overfitting but also makes it sensitive to the number of clusters. In this paper, we propose constrained deep adaptive clustering with cluster refinement (CDAC&#43;), an end-to-end clustering method that can naturally incorporate pairwise constraints as prior knowledge to guide the clustering process. Moreover, we refine the clusters by forcing the model to learn from the high confidence assignments. After eliminating low confidence assignments, our approach is surprisingly insensitive to the number of clusters. Experimental results on the three benchmark datasets show that our method can yield significant improvements over strong baselines."><meta property="og:image" content="https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/featured.png">
-  <meta property="twitter:image" content="https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://thuiar.github.io/publication/TEXTOIR/">
+  <meta property="og:title" content="TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition | THUIAR">
+  <meta property="og:description" content="TEXTOIR is the first integrated and visualized platform for text open intent recognition. It is composed of two main modules: open intent detection and open intent discovery. Each module integrates most of the state-of-the-art algorithms and benchmark intent datasets. It also contains an overall framework connecting the two modules in a pipeline scheme. In addition, this platform has visualized tools for data and model management, training, evaluation and analysis of the performance from different aspects. TEXTOIR provides useful toolkits and convenient visualized interfaces for each sub-module , and designs a framework to implement a complete process to both identify known intents and discover open intents. Codes can be found at https://github.com/thuiar/TEXTOIR"><meta property="og:image" content="https://thuiar.github.io/publication/TEXTOIR/featured.png">
+  <meta property="twitter:image" content="https://thuiar.github.io/publication/TEXTOIR/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-08-31T15:24:04&#43;08:00">
+      <meta property="article:published_time" content="2021-02-17T18:38:46&#43;08:00">
     
-    <meta property="article:modified_time" content="2019-08-31T15:24:04&#43;08:00">
+    <meta property="article:modified_time" content="2021-02-17T18:38:46&#43;08:00">
   
 
   
@@ -302,20 +302,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/"
+    "@id": "https://thuiar.github.io/publication/TEXTOIR/"
   },
-  "headline": "Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement",
+  "headline": "Discovering New Intents with Deep Aligned Clustering",
   
   "image": [
-    "https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/featured.png"
+    "https://thuiar.github.io/publication/TEXTOIR/featured.png"
   ],
   
-  "datePublished": "2019-08-31T15:24:04+08:00",
-  "dateModified": "2019-08-31T15:24:04+08:00",
+  "datePublished": "2021-02-17T18:38:46+08:00",
+  "dateModified": "2021-02-17T18:38:46+08:00",
   
   "author": {
     "@type": "Person",
-    "name": "Tingen Lin"
+    "name": "Hanlei Zhang"
   },
   
   "publisher": {
@@ -326,7 +326,7 @@
       "url": "https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Identifying new user intents is an essential task in the dialogue system. However, it is hard to get satisfying clustering results since the definition of intents is strongly guided by prior knowledge. Existing methods incorporate prior knowledge by intensive feature engineering, which not only leads to overfitting but also makes it sensitive to the number of clusters. In this paper, we propose constrained deep adaptive clustering with cluster refinement (CDAC+), an end-to-end clustering method that can naturally incorporate pairwise constraints as prior knowledge to guide the clustering process. Moreover, we refine the clusters by forcing the model to learn from the high confidence assignments. After eliminating low confidence assignments, our approach is surprisingly insensitive to the number of clusters. Experimental results on the three benchmark datasets show that our method can yield significant improvements over strong baselines."
+  "description": "Discovering new intents is a crucial task in dialogue systems. Most existing methods are limited in transferring the prior knowledge from known intents to new intents. These methods also have difficulties in providing high-quality supervised signals to learn clustering-friendly features for grouping unlabeled intents. In this work, we propose an effective method (Deep Aligned Clustering) to discover new intents with the aid of limited known intent data. Firstly, we leverage a few labeled known intent samples as prior knowledge to pre-train the model. Then, we perform k-means to produce cluster assignments as pseudo-labels. Moreover, we propose an alignment strategy to tackle the label inconsistency problem during clustering assignments. Finally, we learn the intent representations under the supervision of the aligned pseudo-labels. With an unknown number of new intents, we predict the number of intent categories by eliminating lowconfidence intent-wise clusters. Extensive experiments on two benchmark datasets show that our method is more robust and achieves substantial improvements over the state-of-theart methods."
 }
 </script>
 
@@ -344,7 +344,7 @@
 
 
 
-  <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement | THUIAR</title>
+  <title>Discovering New Intents with Deep Aligned Clustering | THUIAR</title>
 
 </head>
 
@@ -848,7 +848,7 @@
             <span>English</span>
           </div>
           
-          <a class="dropdown-item" href="https://thuiar.github.io/zh/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/">
+          <a class="dropdown-item" href="https://thuiar.github.io/zh/publication/TEXTOIR/">
             <span>中文 (简体)</span>
           </a>
           
@@ -893,7 +893,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</h1>
+  <h1>Discovering New Intents with Deep Aligned Clustering</h1>
 
   
 
@@ -910,7 +910,7 @@
     
 
   
-  <span ><a href="/author/tingen-lin/">Tingen Lin</a></span>, <span ><a href="/author/hua-xu/">Hua Xu</a></span>, <span ><a href="/author/hanlei-zhang/">Hanlei Zhang</a></span>
+  <span ><a href="/author/hanlei-zhang/">Hanlei Zhang</a></span>, <span ><a href="/author/hua-xu/">Hua Xu</a></span>, <span ><a href="/author/tingen-lin/">Tingen Lin</a></span>, <span ><a href="/author/ruilv/">RuiLv</a></span>
   </div>
   
   
@@ -921,7 +921,7 @@
     
       
     
-    August 2019
+    February 2021
   </span>
   
 
@@ -969,7 +969,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/1911.08891" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2012.08987.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -980,7 +980,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/thuiar/CDAC-plus" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/thuiar/DeepAligned-Clustering" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1003,9 +1003,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 396px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 381px;">
   <div style="position: relative">
-    <img src="/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/featured_hu14317c81a936dc8deda4f7bec81b7a5e_635491_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/publication/TEXTOIR/featured_hu187cbf137623f58bd2ac0efd85d8db27_114937_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1016,7 +1016,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Identifying new user intents is an essential task in the dialogue system. However, it is hard to get satisfying clustering results since the definition of intents is strongly guided by prior knowledge. Existing methods incorporate prior knowledge by intensive feature engineering, which not only leads to overfitting but also makes it sensitive to the number of clusters. In this paper, we propose constrained deep adaptive clustering with cluster refinement (CDAC+), an end-to-end clustering method that can naturally incorporate pairwise constraints as prior knowledge to guide the clustering process. Moreover, we refine the clusters by forcing the model to learn from the high confidence assignments. After eliminating low confidence assignments, our approach is surprisingly insensitive to the number of clusters. Experimental results on the three benchmark datasets show that our method can yield significant improvements over strong baselines.</p>
+    <p class="pub-abstract">Discovering new intents is a crucial task in dialogue systems. Most existing methods are limited in transferring the prior knowledge from known intents to new intents. These methods also have difficulties in providing high-quality supervised signals to learn clustering-friendly features for grouping unlabeled intents. In this work, we propose an effective method (Deep Aligned Clustering) to discover new intents with the aid of limited known intent data. Firstly, we leverage a few labeled known intent samples as prior knowledge to pre-train the model. Then, we perform k-means to produce cluster assignments as pseudo-labels. Moreover, we propose an alignment strategy to tackle the label inconsistency problem during clustering assignments. Finally, we learn the intent representations under the supervision of the aligned pseudo-labels. With an unknown number of new intents, we predict the number of intent categories by eliminating lowconfidence intent-wise clusters. Extensive experiments on two benchmark datasets show that our method is more robust and achieves substantial improvements over the state-of-theart methods.</p>
     
 
     
@@ -1046,13 +1046,24 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence. (AAAI 2021, CCF A, Long Paper)</div>
+          <div class="col-12 col-md-9">Proceedings of the the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations (ACL-IJCNLP 2021, demo paper, CCF A)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Codes</div>
+          <div class="col-12 col-md-9"><a href="https://github.com/thuiar/TEXTOIR">Toolkit</a></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
 
     <div class="space-below"></div>
 
@@ -1078,7 +1089,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/&amp;text=Discovering%20New%20Intents%20via%20Constrained%20Deep%20Adaptive%20Clustering%20with%20Cluster%20Refinement" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://thuiar.github.io/publication/TEXTOIR/&amp;text=Discovering%20New%20Intents%20with%20Deep%20Aligned%20Clustering" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1091,7 +1102,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/&amp;t=Discovering%20New%20Intents%20via%20Constrained%20Deep%20Adaptive%20Clustering%20with%20Cluster%20Refinement" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://thuiar.github.io/publication/TEXTOIR/&amp;t=Discovering%20New%20Intents%20with%20Deep%20Aligned%20Clustering" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1104,7 +1115,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Discovering%20New%20Intents%20via%20Constrained%20Deep%20Adaptive%20Clustering%20with%20Cluster%20Refinement&amp;body=https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Discovering%20New%20Intents%20with%20Deep%20Aligned%20Clustering&amp;body=https://thuiar.github.io/publication/TEXTOIR/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1117,7 +1128,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/&amp;title=Discovering%20New%20Intents%20via%20Constrained%20Deep%20Adaptive%20Clustering%20with%20Cluster%20Refinement" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://thuiar.github.io/publication/TEXTOIR/&amp;title=Discovering%20New%20Intents%20with%20Deep%20Aligned%20Clustering" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1130,7 +1141,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Discovering%20New%20Intents%20via%20Constrained%20Deep%20Adaptive%20Clustering%20with%20Cluster%20Refinement%20https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Discovering%20New%20Intents%20with%20Deep%20Aligned%20Clustering%20https://thuiar.github.io/publication/TEXTOIR/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1143,7 +1154,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/&amp;title=Discovering%20New%20Intents%20via%20Constrained%20Deep%20Adaptive%20Clustering%20with%20Cluster%20Refinement" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://thuiar.github.io/publication/TEXTOIR/&amp;title=Discovering%20New%20Intents%20with%20Deep%20Aligned%20Clustering" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1160,84 +1171,6 @@
 
 
 
-
-
-  
-    
-    
-
-
-
-
-
-  
-    
-    
-    
-    
-    
-    <div class="media author-card content-widget-hr">
-      
-
-      <div class="media-body">
-        <h5 class="card-title"><a href="/author/tingen-lin/">Tingen Lin</a></h5>
-        <h6 class="card-subtitle">Master&rsquo;s Degree</h6>
-        <p class="card-text">Joined the team in 2017, obtained a master&rsquo;s degree in 2020, and an outstanding master&rsquo;s degree graduate of the Department of Computer Science,Tsinghua University.</p>
-        <ul class="network-icon" aria-hidden="true">
-  
-</ul>
-
-      </div>
-    </div>
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-    
-    
-    
-    
-    
-    <div class="media author-card content-widget-hr">
-      
-        
-        <img class="avatar mr-3 avatar-circle" src="/author/hua-xu/avatar_hufc278e4127e99d69dc26cf1bf97fa481_942706_270x270_fill_q90_lanczos_center.jpg" alt="Hua Xu">
-      
-
-      <div class="media-body">
-        <h5 class="card-title"><a href="/author/hua-xu/">Hua Xu</a></h5>
-        <h6 class="card-subtitle">Tenured Associate Professor, Associate Editor of Expert Systems with Application, Ph.D Supervisor</h6>
-        
-        <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:xuhua@tsinghua.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      </div>
-    </div>
-  
 
 
   
@@ -1355,6 +1288,95 @@
 
 
   
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/hua-xu/avatar_hufc278e4127e99d69dc26cf1bf97fa481_942706_270x270_fill_q90_lanczos_center.jpg" alt="Hua Xu">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/author/hua-xu/">Hua Xu</a></h5>
+        <h6 class="card-subtitle">Tenured Associate Professor, Associate Editor of Expert Systems with Application, Ph.D Supervisor</h6>
+        
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:xuhua@tsinghua.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/author/tingen-lin/">Tingen Lin</a></h5>
+        <h6 class="card-subtitle">Master&rsquo;s Degree</h6>
+        <p class="card-text">Joined the team in 2017, obtained a master&rsquo;s degree in 2020, and an outstanding master&rsquo;s degree graduate of the Department of Computer Science,Tsinghua University.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
 
 
 
@@ -1368,6 +1390,23 @@
 
 
   
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/adaptive-decision-boundary/">Deep Open Intent Classification with Adaptive Decision Boundary</a></li>
+      
+      <li><a href="/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/">A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier</a></li>
+      
+      <li><a href="/publication/deep-unknown-intent-detection-with-margin-loss/">Deep Unknown Intent Detection with Margin Loss</a></li>
+      
+      <li><a href="/publication/self-mm/">Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis</a></li>
+      
+      <li><a href="/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/">Cross Entropy and Adaptive Variance Scaling in Continuous EDA</a></li>
+      
+    </ul>
+  </div>
   
 
 
