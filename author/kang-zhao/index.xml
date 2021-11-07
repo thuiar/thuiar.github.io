@@ -5,12 +5,28 @@
     <link>https://thuiar.github.io/author/kang-zhao/</link>
       <atom:link href="https://thuiar.github.io/author/kang-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Kang Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2021</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2021</copyright><lastBuildDate>Sat, 08 May 2021 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>Kang Zhao</title>
       <link>https://thuiar.github.io/author/kang-zhao/</link>
     </image>
+    
+    <item>
+      <title>TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition</title>
+      <link>https://thuiar.github.io/publication/textoir/</link>
+      <pubDate>Sat, 08 May 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/textoir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation iterative fusion based on heterogeneous graph neural network for joint entity and relation extraction</title>
+      <link>https://thuiar.github.io/publication/rifre/</link>
+      <pubDate>Sat, 01 May 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/rifre/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
