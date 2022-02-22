@@ -1,0 +1,18 @@
+{
+  "name": "清华大学IAR研究组",
+  "short_name": "清华大学IAR研究组",
+  "lang": "zh-Hans",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_huf9441868456af88e4429501459a79a2b_153180_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/zh/?utm_source=web_app_manifest"
+}
