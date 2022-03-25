@@ -5,7 +5,7 @@
     <link>https://thuiar.github.io/author/hua-xu/</link>
       <atom:link href="https://thuiar.github.io/author/hua-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Hua Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Tue, 15 Feb 2022 16:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sun, 20 Mar 2022 15:43:29 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>Hua Xu</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Natural Interaction for Tri-Co Robots (1) Human-machine Dialogue Intention Understanding</title>
+      <link>https://thuiar.github.io/monograph/intent/</link>
+      <pubDate>Sun, 20 Mar 2022 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.github.io/monograph/intent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining: Methodology and Applications(2nd edition)</title>
+      <link>https://thuiar.github.io/textbook/datamining-methodandapplication2/</link>
+      <pubDate>Wed, 02 Mar 2022 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.github.io/textbook/datamining-methodandapplication2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Mining: Methodology and Applications</title>
       <link>https://thuiar.github.io/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
       <guid>https://thuiar.github.io/textbook/datamining-methodandapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Machine Learning</title>
+      <link>https://thuiar.github.io/monograph/evolutionary-machine-learning/</link>
+      <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.github.io/monograph/evolutionary-machine-learning/</guid>
       <description></description>
     </item>
     
@@ -309,6 +333,14 @@
     </item>
     
     <item>
+      <title>Consistent Representation Learning for Continual Relation Extraction</title>
+      <link>https://thuiar.github.io/publication/crl/</link>
+      <pubDate>Tue, 15 Mar 2022 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/crl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GAR-Net: A Graph Attention Reasoning Network for Conversation Understanding</title>
       <link>https://thuiar.github.io/publication/gar-net/</link>
       <pubDate>Tue, 15 Feb 2022 16:24:04 +0800</pubDate>
@@ -341,14 +373,6 @@
     </item>
     
     <item>
-      <title>Representation iterative fusion based on heterogeneous graph neural network for joint entity and relation extraction</title>
-      <link>https://thuiar.github.io/publication/rifre/</link>
-      <pubDate>Sat, 01 May 2021 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/rifre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Discovering New Intents with Deep Aligned Clustering</title>
       <link>https://thuiar.github.io/publication/deepaligned-clustering/</link>
       <pubDate>Wed, 17 Feb 2021 18:38:46 +0800</pubDate>
@@ -373,6 +397,14 @@
     </item>
     
     <item>
+      <title>Representation Iterative Fusion Based on Heterogeneous Graph Neural Network for Joint Entity and Relation Extraction</title>
+      <link>https://thuiar.github.io/publication/rifre/</link>
+      <pubDate>Mon, 01 Feb 2021 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/rifre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
       <link>https://thuiar.github.io/publication/cmbert/</link>
       <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
@@ -385,22 +417,6 @@
       <link>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
-      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
       <description></description>
     </item>
     
@@ -421,7 +437,7 @@
     </item>
     
     <item>
-      <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
+      <title>HGFM : A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
       <link>https://thuiar.github.io/publication/hgfm/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/hgfm/</guid>
@@ -877,6 +893,14 @@
     </item>
     
     <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2009 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
       <link>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -894,6 +918,14 @@
 &lt;p&gt;Target Audience: All Graduate Students&lt;/p&gt;
 &lt;p&gt;Teaching Time：1997 - Today&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
+      <description></description>
     </item>
     
   </channel>

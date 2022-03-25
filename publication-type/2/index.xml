@@ -29,9 +29,9 @@
     </item>
     
     <item>
-      <title>Representation iterative fusion based on heterogeneous graph neural network for joint entity and relation extraction</title>
+      <title>Representation Iterative Fusion Based on Heterogeneous Graph Neural Network for Joint Entity and Relation Extraction</title>
       <link>https://thuiar.github.io/publication/rifre/</link>
-      <pubDate>Sat, 01 May 2021 16:24:04 +0800</pubDate>
+      <pubDate>Mon, 01 Feb 2021 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/rifre/</guid>
       <description></description>
     </item>
@@ -41,22 +41,6 @@
       <link>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
-      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
       <description></description>
     </item>
     
@@ -273,6 +257,22 @@
       <link>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2009 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
       <description></description>
     </item>
     

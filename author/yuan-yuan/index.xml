@@ -13,22 +13,6 @@
     </image>
     
     <item>
-      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
-      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Objective Reduction in Many-Objective Optimization: Evolutionary Multiobjective Approaches and Comprehensive Analysis</title>
       <link>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
@@ -113,6 +97,22 @@
       <link>https://thuiar.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2009 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
       <description></description>
     </item>
     

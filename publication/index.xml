@@ -5,7 +5,7 @@
     <link>https://thuiar.github.io/publication/</link>
       <atom:link href="https://thuiar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>All Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Tue, 15 Feb 2022 16:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Wed, 16 Mar 2022 15:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>All Papers</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>M-SENA is an open-sourced platform for Multimodal Sentiment Analysis</title>
+      <link>https://thuiar.github.io/publication/m-sena/</link>
+      <pubDate>Wed, 16 Mar 2022 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/m-sena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent Representation Learning for Continual Relation Extraction</title>
+      <link>https://thuiar.github.io/publication/crl/</link>
+      <pubDate>Tue, 15 Mar 2022 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/crl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GAR-Net: A Graph Attention Reasoning Network for Conversation Understanding</title>
       <link>https://thuiar.github.io/publication/gar-net/</link>
       <pubDate>Tue, 15 Feb 2022 16:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/gar-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An End-to-End Traditional Chinese Medicine Constitution Assessment System Based on Multimodal Clinical Feature Representation and Fusion</title>
+      <link>https://thuiar.github.io/publication/an-end-to-end-traditional-chinese-medicine-constitution-assessment-system-based-on-multimodal-clinical-feature-representation-and-fusion/</link>
+      <pubDate>Wed, 12 Jan 2022 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-end-to-end-traditional-chinese-medicine-constitution-assessment-system-based-on-multimodal-clinical-feature-representation-and-fusion/</guid>
       <description></description>
     </item>
     
@@ -45,14 +69,6 @@
     </item>
     
     <item>
-      <title>Representation iterative fusion based on heterogeneous graph neural network for joint entity and relation extraction</title>
-      <link>https://thuiar.github.io/publication/rifre/</link>
-      <pubDate>Sat, 01 May 2021 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/rifre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Discovering New Intents with Deep Aligned Clustering</title>
       <link>https://thuiar.github.io/publication/deepaligned-clustering/</link>
       <pubDate>Wed, 17 Feb 2021 18:38:46 +0800</pubDate>
@@ -77,6 +93,14 @@
     </item>
     
     <item>
+      <title>Representation Iterative Fusion Based on Heterogeneous Graph Neural Network for Joint Entity and Relation Extraction</title>
+      <link>https://thuiar.github.io/publication/rifre/</link>
+      <pubDate>Mon, 01 Feb 2021 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/rifre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
       <link>https://thuiar.github.io/publication/cmbert/</link>
       <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
@@ -89,22 +113,6 @@
       <link>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
-      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
       <description></description>
     </item>
     
@@ -125,7 +133,7 @@
     </item>
     
     <item>
-      <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
+      <title>HGFM : A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
       <link>https://thuiar.github.io/publication/hgfm/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/hgfm/</guid>
@@ -533,10 +541,26 @@
     </item>
     
     <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2009 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
       <link>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
       <description></description>
     </item>
     
