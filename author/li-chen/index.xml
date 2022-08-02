@@ -5,12 +5,20 @@
     <link>https://thuiar.github.io/author/li-chen/</link>
       <atom:link href="https://thuiar.github.io/author/li-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Tue, 19 Jul 2022 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>Li Chen</title>
       <link>https://thuiar.github.io/author/li-chen/</link>
     </image>
+    
+    <item>
+      <title>MFENAS: Multifactorial Evolution for Neural Architecture Search</title>
+      <link>https://thuiar.github.io/publication/mfenas/</link>
+      <pubDate>Tue, 19 Jul 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/mfenas/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
