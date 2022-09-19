@@ -125,6 +125,38 @@
     </item>
     
     <item>
+      <title>Combining Fine-Tuning with a Feature-Based Approach for Aspect Extraction on Reviews</title>
+      <link>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</link>
+      <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained Self-supervised Clustering for Discovering New Intents</title>
+      <link>https://thuiar.github.io/publication/constrained-self-supervised-clustering-for-discovering-new-intents/</link>
+      <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/constrained-self-supervised-clustering-for-discovering-new-intents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CORAL-DMOEA: Correlation Alignment-Based Information Transfer for Dynamic Multi-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/coral-dmoea-correlation-alignment-based-information-transfer-for-dynamic-multi-objective-optimization/</link>
+      <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/coral-dmoea-correlation-alignment-based-information-transfer-for-dynamic-multi-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SATNet: Symmetric Adversarial Transfer Network Based on Two-Level Alignment Strategy towards Cross-Domain Sentiment Classification</title>
+      <link>https://thuiar.github.io/publication/satnet-symmetric-adversarial-transfer-network-based-on-two-level-alignment-strategy-towards-cross-domain-sentiment-classification/</link>
+      <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/satnet-symmetric-adversarial-transfer-network-based-on-two-level-alignment-strategy-towards-cross-domain-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
       <link>https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
@@ -145,6 +177,14 @@
       <link>https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video-Based Sentiment Analysis with hvnLBP-TOP Feature and bi-LSTM</title>
+      <link>https://thuiar.github.io/publication/video-based-sentiment-analysis-with-hvnlbp-top-feature-and-bi-lstm/</link>
+      <pubDate>Wed, 08 May 2019 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/video-based-sentiment-analysis-with-hvnlbp-top-feature-and-bi-lstm/</guid>
       <description></description>
     </item>
     

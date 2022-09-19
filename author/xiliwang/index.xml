@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XiliWang | THUIAR</title>
+    <link>https://thuiar.github.io/author/xiliwang/</link>
+      <atom:link href="https://thuiar.github.io/author/xiliwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>XiliWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Fri, 08 May 2020 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>XiliWang</title>
+      <link>https://thuiar.github.io/author/xiliwang/</link>
+    </image>
+    
+    <item>
+      <title>Combining Fine-Tuning with a Feature-Based Approach for Aspect Extraction on Reviews</title>
+      <link>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</link>
+      <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

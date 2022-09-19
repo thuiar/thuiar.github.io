@@ -1407,6 +1407,30 @@
                 href="https://thuiar.github.io/author/fanyangmeng/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/constrained-self-supervised-clustering-for-discovering-new-intents/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/coral-dmoea-correlation-alignment-based-information-transfer-for-dynamic-multi-objective-optimization/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/guangcantao/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/satnet-symmetric-adversarial-transfer-network-based-on-two-level-alignment-strategy-towards-cross-domain-sentiment-classification/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/ting-enlin/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xiliwang/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yucao/</loc>
+    <lastmod>2020-05-08T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/patent/</loc>
     <lastmod>2020-02-21T15:43:29+08:00</lastmod>
     <xhtml:link
@@ -1536,6 +1560,12 @@
                 hreflang="en"
                 href="https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/author/haoranli/</loc>
+    <lastmod>2019-05-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/video-based-sentiment-analysis-with-hvnlbp-top-feature-and-bi-lstm/</loc>
+    <lastmod>2019-05-08T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/batch-bayesian-optimization/</loc>
     <lastmod>2020-09-19T21:55:28+08:00</lastmod>
@@ -1825,6 +1855,18 @@
   </url><url>
     <loc>https://thuiar.github.io/tag/big-data/</loc>
     <lastmod>2016-08-01T15:43:29+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/abhishek-gupta/</loc>
+    <lastmod>2016-02-15T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/evolutionary-multitasking-in-permutation-based-combinatorial-optimization-problems-realization-with-tsp-qap-lop-and-jsp/</loc>
+    <lastmod>2016-02-15T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/puay-siew-tan/</loc>
+    <lastmod>2016-02-15T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yew-soo-ong/</loc>
+    <lastmod>2016-02-15T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/bithash/</loc>
     <lastmod>2020-09-19T21:38:38+08:00</lastmod>
@@ -2879,6 +2921,25 @@
                 href="https://thuiar.github.io/author/xiaoqiu-huang/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/publication/effective-structure-learning-for-estimation-of-distribution-algorithms-via-l1-regularized-bayesian-networks/</loc>
+    <lastmod>2013-01-15T15:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/peifajia/</loc>
+    <lastmod>2020-09-19T21:55:55+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/author/peifajia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/author/peifajia/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/yiding/</loc>
+    <lastmod>2013-01-15T15:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/tag/collocation-extraction/</loc>
     <lastmod>2020-09-19T21:38:45+08:00</lastmod>
     <xhtml:link
@@ -3189,19 +3250,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/author/peifajia/</loc>
-    <lastmod>2020-09-19T21:55:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/author/peifajia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/author/peifajia/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/talk/industrial-data-mining/</loc>
