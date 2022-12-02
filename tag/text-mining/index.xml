@@ -5,12 +5,20 @@
     <link>https://thuiar.github.io/tag/text-mining/</link>
       <atom:link href="https://thuiar.github.io/tag/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Text mining&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sun, 01 Jan 2017 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>&#34;Text mining&#34;</title>
       <link>https://thuiar.github.io/tag/text-mining/</link>
     </image>
+    
+    <item>
+      <title>On the need of hierarchical emotion classification: Detecting the implicit feature using constrained topic model</title>
+      <link>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</link>
+      <pubDate>Sun, 01 Jan 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A rule-based approach to emotion cause detection for Chinese micro-blogs</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiming Cao | THUIAR</title>
+    <link>https://thuiar.github.io/author/yiming-cao/</link>
+      <atom:link href="https://thuiar.github.io/author/yiming-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiming Cao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sun, 22 Aug 2004 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Yiming Cao</title>
+      <link>https://thuiar.github.io/author/yiming-cao/</link>
+    </image>
+    
+    <item>
+      <title>The RTOC Open System for Controlling Fictitious Roaming Platform</title>
+      <link>https://thuiar.github.io/publication/the-rtoc-open-system-for-controlling-fictitious-roaming-platform/</link>
+      <pubDate>Sun, 22 Aug 2004 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/the-rtoc-open-system-for-controlling-fictitious-roaming-platform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

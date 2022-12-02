@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Finding structural hole spanners based on community forest model and diminishing marginal utility in large scale social networks</title>
+      <link>https://thuiar.github.io/publication/finding-structural-hole-spanners-based-on-community-forest-model-and-diminishing-marginal-utility-in-large-scale-social-networks/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/finding-structural-hole-spanners-based-on-community-forest-model-and-diminishing-marginal-utility-in-large-scale-social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Heterogeneous graph neural networks for noisy few-shot relation classification</title>
       <link>https://thuiar.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -89,6 +97,22 @@
       <link>https://thuiar.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Reduction in Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization/</link>
+      <pubDate>Wed, 22 Feb 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the need of hierarchical emotion classification: Detecting the implicit feature using constrained topic model</title>
+      <link>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</link>
+      <pubDate>Sun, 01 Jan 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</guid>
       <description></description>
     </item>
     
@@ -173,6 +197,14 @@
     </item>
     
     <item>
+      <title>Multiobjective Flexible Job Shop Scheduling Using Memetic Algorithms</title>
+      <link>https://thuiar.github.io/publication/multiobjective-flexible-job-shop-scheduling-using-memetic-algorithms/</link>
+      <pubDate>Mon, 19 Aug 2013 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/multiobjective-flexible-job-shop-scheduling-using-memetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effective Structure Learning for Estimation of Distribution Algorithms via L1-Regularized Bayesian Networks</title>
       <link>https://thuiar.github.io/publication/effective-structure-learning-for-estimation-of-distribution-algorithms-via-l1-regularized-bayesian-networks/</link>
       <pubDate>Tue, 15 Jan 2013 15:24:04 +0800</pubDate>
@@ -245,14 +277,6 @@
     </item>
     
     <item>
-      <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
-      <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exploiting effective features for Chinese sentiment classification</title>
       <link>https://thuiar.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
@@ -277,10 +301,26 @@
     </item>
     
     <item>
+      <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
+      <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
+      <pubDate>Sun, 19 Dec 2010 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Empirical Study of Unsupervised Sentiment Classification of Chinese Reviews</title>
       <link>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Timed Agent Based Petri Nets for Modeling Cooperative Multi-Robot Systems</title>
+      <link>https://thuiar.github.io/publication/fuzzy-timed-agent-based-petri-nets-for-modeling-cooperative-multi-robot-systems/</link>
+      <pubDate>Mon, 21 Dec 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/fuzzy-timed-agent-based-petri-nets-for-modeling-cooperative-multi-robot-systems/</guid>
       <description></description>
     </item>
     

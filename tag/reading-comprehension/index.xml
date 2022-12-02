@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading Comprehension | THUIAR</title>
+    <link>https://thuiar.github.io/tag/reading-comprehension/</link>
+      <atom:link href="https://thuiar.github.io/tag/reading-comprehension/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reading Comprehension</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Fri, 07 Feb 2020 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Reading Comprehension</title>
+      <link>https://thuiar.github.io/tag/reading-comprehension/</link>
+    </image>
+    
+    <item>
+      <title>A Multi-Task Learning Machine Reading Comprehension Model for Noisy Document</title>
+      <link>https://thuiar.github.io/publication/a-multi-task-learning-machine-reading-comprehension-model-for-noisy-document/</link>
+      <pubDate>Fri, 07 Feb 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-multi-task-learning-machine-reading-comprehension-model-for-noisy-document/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

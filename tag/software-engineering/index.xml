@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering | THUIAR</title>
+    <link>https://thuiar.github.io/tag/software-engineering/</link>
+      <atom:link href="https://thuiar.github.io/tag/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Engineering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Mon, 29 Oct 2001 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Software Engineering</title>
+      <link>https://thuiar.github.io/tag/software-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Conceiving, analyzing, modeling, verifying and developing-the clews of modeling open software architectures of robot controllers</title>
+      <link>https://thuiar.github.io/publication/conceiving-analyzing-modeling-verifying-and-developing-the-clews-of-modeling-open-software-architectures-of-robot-controllers/</link>
+      <pubDate>Mon, 29 Oct 2001 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/conceiving-analyzing-modeling-verifying-and-developing-the-clews-of-modeling-open-software-architectures-of-robot-controllers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vectors | THUIAR</title>
+    <link>https://thuiar.github.io/tag/vectors/</link>
+      <atom:link href="https://thuiar.github.io/tag/vectors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vectors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Mon, 01 Sep 2014 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Vectors</title>
+      <link>https://thuiar.github.io/tag/vectors/</link>
+    </image>
+    
+    <item>
+      <title>Chinese Sentiment Classification Using A Neural Network Tool-Word2vec</title>
+      <link>https://thuiar.github.io/publication/chinese-sentiment-classification-using-a-neural-network-tool-word2vec/</link>
+      <pubDate>Mon, 01 Sep 2014 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/chinese-sentiment-classification-using-a-neural-network-tool-word2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Inspired Evolutionary Algorithm with Linkage Learning</title>
+      <link>https://thuiar.github.io/publication/quantum-inspired-evolutionary-algorithm-with-linkage-learning_/</link>
+      <pubDate>Sun, 06 Jul 2014 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/quantum-inspired-evolutionary-algorithm-with-linkage-learning_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HHS/LNS: An integrated search method for flexible job shop scheduling</title>
+      <link>https://thuiar.github.io/publication/hhs_lns/</link>
+      <pubDate>Sun, 10 Jun 2012 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/hhs_lns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

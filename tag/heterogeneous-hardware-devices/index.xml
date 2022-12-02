@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heterogeneous hardware devices | THUIAR</title>
+    <link>https://thuiar.github.io/tag/heterogeneous-hardware-devices/</link>
+      <atom:link href="https://thuiar.github.io/tag/heterogeneous-hardware-devices/index.xml" rel="self" type="application/rss+xml" />
+    <description>heterogeneous hardware devices</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Wed, 17 Oct 2007 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>heterogeneous hardware devices</title>
+      <link>https://thuiar.github.io/tag/heterogeneous-hardware-devices/</link>
+    </image>
+    
+    <item>
+      <title>Control middleware for open robot controllers</title>
+      <link>https://thuiar.github.io/publication/control-middleware-for-open-robot-controllers/</link>
+      <pubDate>Wed, 17 Oct 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/control-middleware-for-open-robot-controllers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

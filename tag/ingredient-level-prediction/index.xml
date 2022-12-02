@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Ingredient level prediction&#34; | THUIAR</title>
+    <title>Ingredient level prediction | THUIAR</title>
     <link>https://thuiar.github.io/tag/ingredient-level-prediction/</link>
       <atom:link href="https://thuiar.github.io/tag/ingredient-level-prediction/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Ingredient level prediction&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <description>Ingredient level prediction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sun, 19 Dec 2010 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;Ingredient level prediction&#34;</title>
+      <title>Ingredient level prediction</title>
       <link>https://thuiar.github.io/tag/ingredient-level-prediction/</link>
     </image>
     
     <item>
       <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
       <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Dec 2010 16:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
       <description></description>
     </item>

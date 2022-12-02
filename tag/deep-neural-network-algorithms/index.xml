@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>(Deep) Neural Network Algorithms | THUIAR</title>
+    <link>https://thuiar.github.io/tag/deep-neural-network-algorithms/</link>
+      <atom:link href="https://thuiar.github.io/tag/deep-neural-network-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <description>(Deep) Neural Network Algorithms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Tue, 18 May 2021 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>(Deep) Neural Network Algorithms</title>
+      <link>https://thuiar.github.io/tag/deep-neural-network-algorithms/</link>
+    </image>
+    
+    <item>
+      <title>Discovering New Intents with Deep Aligned Clustering</title>
+      <link>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</link>
+      <pubDate>Tue, 18 May 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Open Intent Classification with Adaptive Decision Boundary</title>
+      <link>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</link>
+      <pubDate>Fri, 18 Dec 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

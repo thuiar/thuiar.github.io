@@ -5,12 +5,20 @@
     <link>https://thuiar.github.io/author/baozheng-zhang/</link>
       <atom:link href="https://thuiar.github.io/author/baozheng-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Baozheng Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Wed, 12 Jan 2022 15:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>Baozheng Zhang</title>
       <link>https://thuiar.github.io/author/baozheng-zhang/</link>
     </image>
+    
+    <item>
+      <title>An End-to-End Traditional Chinese Medicine Constitution Assessment System Based on Multimodal Clinical Feature Representation and Fusion</title>
+      <link>https://thuiar.github.io/publication/an-end-to-end-traditional-chinese-medicine-constitution-assessment-system-based-on-multimodal-clinical-feature-representation-and-fusion/</link>
+      <pubDate>Wed, 12 Jan 2022 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-end-to-end-traditional-chinese-medicine-constitution-assessment-system-based-on-multimodal-clinical-feature-representation-and-fusion/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;artificial intelligence&#34; | THUIAR</title>
+    <title>Artificial intelligence | THUIAR</title>
     <link>https://thuiar.github.io/tag/artificial-intelligence/</link>
       <atom:link href="https://thuiar.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;artificial intelligence&#34;</description>
+    <description>Artificial intelligence</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;artificial intelligence&#34;</title>
+      <title>Artificial intelligence</title>
       <link>https://thuiar.github.io/tag/artificial-intelligence/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memetic Algorithm for the Multi-objective Job Shop Flexible Scheduling Problem </title>
+      <link>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-job-shop-flexible-scheduling-problem/</link>
+      <pubDate>Mon, 01 Jul 2013 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-job-shop-flexible-scheduling-problem/</guid>
       <description></description>
     </item>
     

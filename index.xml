@@ -5,7 +5,7 @@
     <link>https://thuiar.github.io/</link>
       <atom:link href="https://thuiar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>THUIAR</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Tue, 19 Jul 2022 16:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sat, 08 Oct 2022 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>THUIAR</title>
@@ -13,34 +13,10 @@
     </image>
     
     <item>
-      <title>Natural Interaction for Tri-Co Robots (1) Human-machine Dialogue Intention Understanding</title>
-      <link>https://thuiar.github.io/monograph/intent/</link>
-      <pubDate>Sun, 20 Mar 2022 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/intent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Mining: Methodology and Applications(2nd edition)</title>
-      <link>https://thuiar.github.io/textbook/datamining-methodandapplication2/</link>
-      <pubDate>Wed, 02 Mar 2022 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/datamining-methodandapplication2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Mining: Methodology and Applications</title>
       <link>https://thuiar.github.io/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
       <guid>https://thuiar.github.io/textbook/datamining-methodandapplication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary Machine Learning</title>
-      <link>https://thuiar.github.io/monograph/evolutionary-machine-learning/</link>
-      <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/evolutionary-machine-learning/</guid>
       <description></description>
     </item>
     
@@ -365,6 +341,22 @@
     </item>
     
     <item>
+      <title>MIntRec: A New Dataset for Multimodal Intent Recognition</title>
+      <link>https://thuiar.github.io/publication/mintrec/</link>
+      <pubDate>Sat, 08 Oct 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/mintrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
+      <link>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
+      <pubDate>Tue, 19 Jul 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Continual Machine Reading Comprehension via Uncertainty-aware Fixed Memory and Adversarial Domain Adaptation </title>
       <link>https://thuiar.github.io/publication/continual-machine-reading-comprehension-via-uncertainty-aware-fixed-memory-and-adversarial-domain-adaptation/</link>
       <pubDate>Tue, 19 Jul 2022 16:24:04 +0800</pubDate>
@@ -398,9 +390,9 @@
     
     <item>
       <title>Consistent Representation Learning for Continual Relation Extraction</title>
-      <link>https://thuiar.github.io/publication/crl/</link>
+      <link>https://thuiar.github.io/publication/consistent-representation-learning-for-continual-relation-extraction/</link>
       <pubDate>Tue, 15 Mar 2022 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/crl/</guid>
+      <guid>https://thuiar.github.io/publication/consistent-representation-learning-for-continual-relation-extraction/</guid>
       <description></description>
     </item>
     
@@ -437,6 +429,14 @@
     </item>
     
     <item>
+      <title>Discovering New Intents with Deep Aligned Clustering</title>
+      <link>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</link>
+      <pubDate>Tue, 18 May 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition</title>
       <link>https://thuiar.github.io/publication/textoir/</link>
       <pubDate>Sat, 08 May 2021 16:24:04 +0800</pubDate>
@@ -469,10 +469,26 @@
     </item>
     
     <item>
+      <title>Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis</title>
+      <link>https://thuiar.github.io/publication/learning-modality-specific-representations-with-self-supervised-multi-task-learning-for-multimodal-sentiment-analysis/</link>
+      <pubDate>Tue, 09 Feb 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/learning-modality-specific-representations-with-self-supervised-multi-task-learning-for-multimodal-sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Representation Iterative Fusion Based on Heterogeneous Graph Neural Network for Joint Entity and Relation Extraction</title>
       <link>https://thuiar.github.io/publication/rifre/</link>
       <pubDate>Mon, 01 Feb 2021 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/rifre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Open Intent Classification with Adaptive Decision Boundary</title>
+      <link>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</link>
+      <pubDate>Fri, 18 Dec 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</guid>
       <description></description>
     </item>
     
@@ -541,6 +557,14 @@
     </item>
     
     <item>
+      <title>Finding structural hole spanners based on community forest model and diminishing marginal utility in large scale social networks</title>
+      <link>https://thuiar.github.io/publication/finding-structural-hole-spanners-based-on-community-forest-model-and-diminishing-marginal-utility-in-large-scale-social-networks/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://thuiar.github.io/publication/finding-structural-hole-spanners-based-on-community-forest-model-and-diminishing-marginal-utility-in-large-scale-social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Combining Fine-Tuning with a Feature-Based Approach for Aspect Extraction on Reviews</title>
       <link>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</link>
       <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
@@ -569,6 +593,14 @@
       <link>https://thuiar.github.io/publication/satnet-symmetric-adversarial-transfer-network-based-on-two-level-alignment-strategy-towards-cross-domain-sentiment-classification/</link>
       <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/satnet-symmetric-adversarial-transfer-network-based-on-two-level-alignment-strategy-towards-cross-domain-sentiment-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Task Learning Machine Reading Comprehension Model for Noisy Document</title>
+      <link>https://thuiar.github.io/publication/a-multi-task-learning-machine-reading-comprehension-model-for-noisy-document/</link>
+      <pubDate>Fri, 07 Feb 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-multi-task-learning-machine-reading-comprehension-model-for-noisy-document/</guid>
       <description></description>
     </item>
     
@@ -649,6 +681,30 @@
     </item>
     
     <item>
+      <title>Attention-Based BiLSTM Network with Lexical Feature for Emotion Classification </title>
+      <link>https://thuiar.github.io/publication/attention-based-bilstm-network-with-lexical-feature-for-emotion-classification/</link>
+      <pubDate>Sun, 08 Jul 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/attention-based-bilstm-network-with-lexical-feature-for-emotion-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Discovery for Streaming Short Texts with CTM</title>
+      <link>https://thuiar.github.io/publication/topic-discovery-for-streaming-short-texts-with-ctm/</link>
+      <pubDate>Sun, 01 Jul 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/topic-discovery-for-streaming-short-texts-with-ctm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Emotion Analysis with Different Distributed Representation Methods for Chinese Microblogs</title>
+      <link>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</link>
+      <pubDate>Sun, 20 May 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Two-Stage Attention Network for Aspect-Level Sentiment Classification</title>
       <link>https://thuiar.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -657,10 +713,74 @@
     </item>
     
     <item>
+      <title>ABiRCNN with neural tensor network for answer selection </title>
+      <link>https://thuiar.github.io/publication/abircnn-with-neural-tensor-network-for-answer-selection/</link>
+      <pubDate>Sun, 14 May 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/abircnn-with-neural-tensor-network-for-answer-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aspect-based sentiment analysis using ABPCS model and SVMPperf in Chinese reviews</title>
+      <link>https://thuiar.github.io/publication/aspect-based-sentiment-analysis-using-abpcs-model-and-svmperf-in-chinese-reviews/</link>
+      <pubDate>Mon, 01 May 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/aspect-based-sentiment-analysis-using-abpcs-model-and-svmperf-in-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimize Collapsed Gibbs Sampling for Biterm Topic Model by Alias Method</title>
+      <link>https://thuiar.github.io/publication/optimize-collapsed-gibbs-sampling-for-biterm-topic-model-by-alias-method/</link>
+      <pubDate>Mon, 01 May 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/optimize-collapsed-gibbs-sampling-for-biterm-topic-model-by-alias-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective Reduction in Many-Objective Optimization</title>
+      <link>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization/</link>
+      <pubDate>Wed, 22 Feb 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the need of hierarchical emotion classification: Detecting the implicit feature using constrained topic model</title>
+      <link>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</link>
+      <pubDate>Sun, 01 Jan 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
       <link>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
       <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grasp the Implicit Features: Hierarchical Emotion Classification based on Topic Model and SVM</title>
+      <link>https://thuiar.github.io/publication/grasp-the-implicit-features-hierarchical-emotion-classification-based-on-topic-model-and-svm/</link>
+      <pubDate>Sun, 24 Jul 2016 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/grasp-the-implicit-features-hierarchical-emotion-classification-based-on-topic-model-and-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperbolic Linear Units for Deep Convolutional Neural Networks</title>
+      <link>https://thuiar.github.io/publication/hyperbolic-linear-units-for-deep-convolutional-neural-networks/</link>
+      <pubDate>Sun, 24 Jul 2016 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/hyperbolic-linear-units-for-deep-convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweet modeling with LSTM recurrent neural networks for hashtag recommendation</title>
+      <link>https://thuiar.github.io/publication/tweet-modeling-with-lstm-recurrent-neural-networks-for-hashtag-recommendation/</link>
+      <pubDate>Sun, 24 Jul 2016 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/tweet-modeling-with-lstm-recurrent-neural-networks-for-hashtag-recommendation/</guid>
       <description></description>
     </item>
     
@@ -706,6 +826,14 @@
 &lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
 &lt;p&gt;Teaching Time：2016 - Today&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Scale Adaptive Reproduction Operator for Decomposition based Estimation of Distribution Algorithm </title>
+      <link>https://thuiar.github.io/publication/scale-adaptive-reproduction-operator-for-decomposition-based-estimation-of-distribution-algorithm/</link>
+      <pubDate>Mon, 25 May 2015 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/scale-adaptive-reproduction-operator-for-decomposition-based-estimation-of-distribution-algorithm/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -765,6 +893,30 @@
     </item>
     
     <item>
+      <title>Emotion Classification Based on Structured Information</title>
+      <link>https://thuiar.github.io/publication/emotion-classification-based-on-structured-information/</link>
+      <pubDate>Mon, 29 Dec 2014 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/emotion-classification-based-on-structured-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese Sentiment Classification Using A Neural Network Tool-Word2vec</title>
+      <link>https://thuiar.github.io/publication/chinese-sentiment-classification-using-a-neural-network-tool-word2vec/</link>
+      <pubDate>Mon, 01 Sep 2014 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/chinese-sentiment-classification-using-a-neural-network-tool-word2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Inspired Evolutionary Algorithm with Linkage Learning</title>
+      <link>https://thuiar.github.io/publication/quantum-inspired-evolutionary-algorithm-with-linkage-learning_/</link>
+      <pubDate>Sun, 06 Jul 2014 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/quantum-inspired-evolutionary-algorithm-with-linkage-learning_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Two-Level Hierarchical EDA Using Conjugate Priori</title>
       <link>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -789,14 +941,6 @@
     </item>
     
     <item>
-      <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
-      <link>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolutionary Many-Objective Optimization Using Ensemble Fitness Ranking</title>
       <link>https://thuiar.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -817,6 +961,22 @@
       <link>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiobjective Flexible Job Shop Scheduling Using Memetic Algorithms</title>
+      <link>https://thuiar.github.io/publication/multiobjective-flexible-job-shop-scheduling-using-memetic-algorithms/</link>
+      <pubDate>Mon, 19 Aug 2013 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/multiobjective-flexible-job-shop-scheduling-using-memetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memetic Algorithm for the Multi-objective Job Shop Flexible Scheduling Problem </title>
+      <link>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-job-shop-flexible-scheduling-problem/</link>
+      <pubDate>Mon, 01 Jul 2013 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-job-shop-flexible-scheduling-problem/</guid>
       <description></description>
     </item>
     
@@ -889,6 +1049,22 @@
     </item>
     
     <item>
+      <title>A hop-by-hop network coding algorithm for aviation communications networks</title>
+      <link>https://thuiar.github.io/publication/a-hop-by-hop-network-coding-algorithm-for-aviation-communications-networks/</link>
+      <pubDate>Mon, 22 Oct 2012 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-hop-by-hop-network-coding-algorithm-for-aviation-communications-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HHS/LNS: An integrated search method for flexible job shop scheduling</title>
+      <link>https://thuiar.github.io/publication/hhs_lns/</link>
+      <pubDate>Sun, 10 Jun 2012 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/hhs_lns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effective search for Pittsburgh learning classifier systems via estimation of distribution algorithms</title>
       <link>https://thuiar.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -905,18 +1081,34 @@
     </item>
     
     <item>
-      <title>A heuristic-based hybrid genetic-variable neighborhood search algorithm for task scheduling in heterogeneous multiprocessor system</title>
-      <link>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</guid>
+      <title>A cooperative coevolution-based Pittsburgh learning classifier system embedded with memetic feature selection</title>
+      <link>https://thuiar.github.io/publication/a-cooperative-coevolution-based-pittsburgh-learning-classifier-system-embedded-with-memetic-feature-selection/</link>
+      <pubDate>Tue, 19 Jul 2011 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-cooperative-coevolution-based-pittsburgh-learning-classifier-system-embedded-with-memetic-feature-selection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
-      <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
+      <title>A design method of multiple protocols communication module in semiconductor equipment simulation platform </title>
+      <link>https://thuiar.github.io/publication/a-design-method-of-multiple-protocols-communication-module-in-semiconductor-equipment-simulation-platform/</link>
+      <pubDate>Fri, 01 Jul 2011 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-design-method-of-multiple-protocols-communication-module-in-semiconductor-equipment-simulation-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of component simulation platform for integrated circuit manufacturing equipments</title>
+      <link>https://thuiar.github.io/publication/design-of-component-simulation-platform-for-integrated-circuit-manufacturing-equipments/</link>
+      <pubDate>Thu, 24 Feb 2011 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/design-of-component-simulation-platform-for-integrated-circuit-manufacturing-equipments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A heuristic-based hybrid genetic-variable neighborhood search algorithm for task scheduling in heterogeneous multiprocessor system</title>
+      <link>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
+      <guid>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</guid>
       <description></description>
     </item>
     
@@ -981,6 +1173,14 @@
     </item>
     
     <item>
+      <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
+      <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
+      <pubDate>Sun, 19 Dec 2010 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Grouping Product Features Using Semi-Supervised Learning with Soft-Constraints</title>
       <link>https://thuiar.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
@@ -1021,6 +1221,38 @@
     </item>
     
     <item>
+      <title>Fuzzy Timed Agent Based Petri Nets for Modeling Cooperative Multi-Robot Systems</title>
+      <link>https://thuiar.github.io/publication/fuzzy-timed-agent-based-petri-nets-for-modeling-cooperative-multi-robot-systems/</link>
+      <pubDate>Mon, 21 Dec 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/fuzzy-timed-agent-based-petri-nets-for-modeling-cooperative-multi-robot-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task scheduling for heterogeneous computing based on Bayesian optimization algorithm</title>
+      <link>https://thuiar.github.io/publication/task-scheduling-for-heterogeneous-computing-based-on-bayesian-optimization-algorithm/</link>
+      <pubDate>Fri, 11 Dec 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/task-scheduling-for-heterogeneous-computing-based-on-bayesian-optimization-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment classification for Chinese reviews based on key substring features</title>
+      <link>https://thuiar.github.io/publication/sentiment-classification-for-chinese-reviews-based-on-key-substring-features/</link>
+      <pubDate>Fri, 06 Nov 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/sentiment-classification-for-chinese-reviews-based-on-key-substring-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hierarchical routing architecture for the aviation communication network</title>
+      <link>https://thuiar.github.io/publication/a-hierarchical-routing-architecture-for-the-aviation-communication-network/</link>
+      <pubDate>Tue, 29 Sep 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-hierarchical-routing-architecture-for-the-aviation-communication-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
       <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
       <pubDate>Mon, 31 Aug 2009 15:24:04 +0800</pubDate>
@@ -1029,10 +1261,146 @@
     </item>
     
     <item>
+      <title>Anti-germ performance prediction for detergents based on Elman network on small data sets</title>
+      <link>https://thuiar.github.io/publication/anti-germ-performance-prediction-for-detergents-based-on-elman-network-on-small-data-sets/</link>
+      <pubDate>Sat, 01 Aug 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/anti-germ-performance-prediction-for-detergents-based-on-elman-network-on-small-data-sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying opinion leaders in BBS</title>
+      <link>https://thuiar.github.io/publication/identifying-opinion-leaders-in-bbs/</link>
+      <pubDate>Tue, 09 Dec 2008 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/identifying-opinion-leaders-in-bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fuzzy Timed Object-Oriented Petri Net for Multi-Agent Systems </title>
+      <link>https://thuiar.github.io/publication/a-fuzzy-timed-object-oriented-petri-net-for-multi-agent-systems/</link>
+      <pubDate>Wed, 24 Sep 2008 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-fuzzy-timed-object-oriented-petri-net-for-multi-agent-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOPN based temporal performance evaluation method of neural network based robot controller</title>
+      <link>https://thuiar.github.io/publication/topn-based-temporal-performance-evaluation-method-of-neural-network-based-robot-controller/</link>
+      <pubDate>Wed, 24 Sep 2008 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/topn-based-temporal-performance-evaluation-method-of-neural-network-based-robot-controller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control middleware for open robot controllers</title>
+      <link>https://thuiar.github.io/publication/control-middleware-for-open-robot-controllers/</link>
+      <pubDate>Wed, 17 Oct 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/control-middleware-for-open-robot-controllers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rough set and fuzzy neural Petri net based method for dynamic knowledge extraction, representation and inference in cooperative multiple robot system</title>
+      <link>https://thuiar.github.io/publication/a-rough-set-and-fuzzy-neural-petri-net-based-method-for-dynamic-knowledge-extraction-representation-and-inference-in-cooperative-multiple-robot-system/</link>
+      <pubDate>Tue, 03 Jul 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-rough-set-and-fuzzy-neural-petri-net-based-method-for-dynamic-knowledge-extraction-representation-and-inference-in-cooperative-multiple-robot-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy neural Petri nets</title>
+      <link>https://thuiar.github.io/publication/fuzzy-neural-petri-nets/</link>
+      <pubDate>Sun, 03 Jun 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/fuzzy-neural-petri-nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel modeling method for cooperative multi-robot systems using fuzzy timed agent based Petri nets</title>
+      <link>https://thuiar.github.io/publication/a-novel-modeling-method-for-cooperative-multi-robot-systems-using-fuzzy-timed-agent-based-petri-nets/</link>
+      <pubDate>Sun, 27 May 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-novel-modeling-method-for-cooperative-multi-robot-systems-using-fuzzy-timed-agent-based-petri-nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
       <link>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTOC: A Rt-Linux Based Open Robot Controller</title>
+      <link>https://thuiar.github.io/publication/rtoc/</link>
+      <pubDate>Sun, 01 Oct 2006 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/rtoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel dynamic knowledge extraction method in cooperative multiple robot system using rough set</title>
+      <link>https://thuiar.github.io/publication/a-novel-dynamic-knowledge-extraction-method-in-cooperative-multiple-robot-system-using-rough-set/</link>
+      <pubDate>Wed, 07 Sep 2005 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-novel-dynamic-knowledge-extraction-method-in-cooperative-multiple-robot-system-using-rough-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy timed object-oriented Petri net</title>
+      <link>https://thuiar.github.io/publication/fuzzy-timed-object-oriented-petri-net/</link>
+      <pubDate>Wed, 07 Sep 2005 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/fuzzy-timed-object-oriented-petri-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Chamber Scheduling Method in Etching Tools Using Adaptive Neural Networks</title>
+      <link>https://thuiar.github.io/publication/a-novel-chamber-scheduling-method-in-etching-tools-using-adaptive-neural-networks/</link>
+      <pubDate>Mon, 30 May 2005 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-novel-chamber-scheduling-method-in-etching-tools-using-adaptive-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The RTOC Open System for Controlling Fictitious Roaming Platform</title>
+      <link>https://thuiar.github.io/publication/the-rtoc-open-system-for-controlling-fictitious-roaming-platform/</link>
+      <pubDate>Sun, 22 Aug 2004 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/the-rtoc-open-system-for-controlling-fictitious-roaming-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portability in General Open Controllers</title>
+      <link>https://thuiar.github.io/publication/portability-in-general-open-controllers/</link>
+      <pubDate>Mon, 28 Oct 2002 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/portability-in-general-open-controllers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Conceptual Communication Model Based On HOONet in General Open Controllers </title>
+      <link>https://thuiar.github.io/publication/a-conceptual-communication-model-based-on-hoonet-in-general-open-controllers/</link>
+      <pubDate>Mon, 01 Jul 2002 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-conceptual-communication-model-based-on-hoonet-in-general-open-controllers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generic Conceptual Model of Interface Components in Open Robot Controller</title>
+      <link>https://thuiar.github.io/publication/a-generic-conceptual-model-of-interface-components-in-open-robot-controller/</link>
+      <pubDate>Mon, 29 Oct 2001 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-generic-conceptual-model-of-interface-components-in-open-robot-controller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceiving, analyzing, modeling, verifying and developing-the clews of modeling open software architectures of robot controllers</title>
+      <link>https://thuiar.github.io/publication/conceiving-analyzing-modeling-verifying-and-developing-the-clews-of-modeling-open-software-architectures-of-robot-controllers/</link>
+      <pubDate>Mon, 29 Oct 2001 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/conceiving-analyzing-modeling-verifying-and-developing-the-clews-of-modeling-open-software-architectures-of-robot-controllers/</guid>
       <description></description>
     </item>
     
@@ -1058,6 +1426,22 @@
 &lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
 &lt;p&gt;Teaching Time：2002 - Today&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Modified Genetic Algorithm-Algorithm Description</title>
+      <link>https://thuiar.github.io/publication/a-modified-genetic-algorithm-algorithm-description/</link>
+      <pubDate>Mon, 21 Aug 2000 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-modified-genetic-algorithm-algorithm-description/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Method of Signal Selecting Based on the Strategy of Fuzzy Clustering and Expert Reasoning </title>
+      <link>https://thuiar.github.io/publication/an-adaptive-method-of-signal-selecting-based-on-the-strategy-of-fuzzy-clustering-and-expert-reasoning/</link>
+      <pubDate>Wed, 28 Jun 2000 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-adaptive-method-of-signal-selecting-based-on-the-strategy-of-fuzzy-clustering-and-expert-reasoning/</guid>
+      <description></description>
     </item>
     
     <item>

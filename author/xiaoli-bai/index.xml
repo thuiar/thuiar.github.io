@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoli Bai | THUIAR</title>
+    <link>https://thuiar.github.io/author/xiaoli-bai/</link>
+      <atom:link href="https://thuiar.github.io/author/xiaoli-bai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoli Bai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sun, 01 Jul 2018 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaoli Bai</title>
+      <link>https://thuiar.github.io/author/xiaoli-bai/</link>
+    </image>
+    
+    <item>
+      <title>Topic Discovery for Streaming Short Texts with CTM</title>
+      <link>https://thuiar.github.io/publication/topic-discovery-for-streaming-short-texts-with-ctm/</link>
+      <pubDate>Sun, 01 Jul 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/topic-discovery-for-streaming-short-texts-with-ctm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Emotion Analysis with Different Distributed Representation Methods for Chinese Microblogs</title>
+      <link>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</link>
+      <pubDate>Sun, 20 May 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aspect-based sentiment analysis using ABPCS model and SVMPperf in Chinese reviews</title>
+      <link>https://thuiar.github.io/publication/aspect-based-sentiment-analysis-using-abpcs-model-and-svmperf-in-chinese-reviews/</link>
+      <pubDate>Mon, 01 May 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/aspect-based-sentiment-analysis-using-abpcs-model-and-svmperf-in-chinese-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimize Collapsed Gibbs Sampling for Biterm Topic Model by Alias Method</title>
+      <link>https://thuiar.github.io/publication/optimize-collapsed-gibbs-sampling-for-biterm-topic-model-by-alias-method/</link>
+      <pubDate>Mon, 01 May 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/optimize-collapsed-gibbs-sampling-for-biterm-topic-model-by-alias-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the need of hierarchical emotion classification: Detecting the implicit feature using constrained topic model</title>
+      <link>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</link>
+      <pubDate>Sun, 01 Jan 2017 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

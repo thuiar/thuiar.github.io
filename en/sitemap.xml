@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thuiar.github.io/author/hua-xu/</loc>
-    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -15,14 +15,14 @@
                 href="https://thuiar.github.io/author/hua-xu/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/author/shaojie-zhao/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xin-wang/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/author/jingliang-fang/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://thuiar.github.io/monograph/intent/</loc>
-    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
-  </url><url>
-    <loc>https://thuiar.github.io/textbook/datamining-methodandapplication2/</loc>
-    <lastmod>2022-03-02T15:43:29+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/author/ziqi-yuan/</loc>
     <lastmod>2022-02-15T16:24:04+08:00</lastmod>
@@ -63,9 +63,6 @@
                 href="https://thuiar.github.io/textbook/datamining-methodandapplication/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/monograph/evolutionary-machine-learning/</loc>
-    <lastmod>2014-09-01T15:43:29+08:00</lastmod>
-  </url><url>
     <loc>https://thuiar.github.io/author/jiadong-yang/</loc>
     <lastmod>2020-09-19T21:55:52+08:00</lastmod>
     <xhtml:link
@@ -96,11 +93,7 @@
   </url><url>
     <loc>https://thuiar.github.io/author/jiangong-yang/</loc>
   </url><url>
-    <loc>https://thuiar.github.io/author/shaojie-zhao/</loc>
-  </url><url>
     <loc>https://thuiar.github.io/author/xiaofei-chen/</loc>
-  </url><url>
-    <loc>https://thuiar.github.io/author/xin-wang/</loc>
   </url><url>
     <loc>https://thuiar.github.io/author/yihe-liu/</loc>
   </url><url>
@@ -259,10 +252,8 @@
                 href="https://thuiar.github.io/author/congfeng-yin/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/author/yuanzhe-qiu/</loc>
-  </url><url>
     <loc>https://thuiar.github.io/author/hanlei-zhang/</loc>
-    <lastmod>2021-05-08T16:24:04+08:00</lastmod>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -922,7 +913,7 @@
                 />
   </url><url>
     <loc>https://thuiar.github.io/publication-type/1/</loc>
-    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -935,7 +926,7 @@
                 />
   </url><url>
     <loc>https://thuiar.github.io/publication/</loc>
-    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -948,7 +939,7 @@
                 />
   </url><url>
     <loc>https://thuiar.github.io/authors/</loc>
-    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -960,7 +951,64 @@
                 href="https://thuiar.github.io/authors/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/author/jiayanteng/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/mintrec/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication_types/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication_types/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/qianruizhou/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/</loc>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/constrained-hlda/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/"
+                />
+  </url><url>
     <loc>https://thuiar.github.io/publication/continual-machine-reading-comprehension-via-uncertainty-aware-fixed-memory-and-adversarial-domain-adaptation/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/hierarchical-topic-model/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/hua-xu/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/author/kaigao/</loc>
@@ -979,30 +1027,39 @@
     <loc>https://thuiar.github.io/publication/mfenas/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
   </url><url>
-    <loc>https://thuiar.github.io/publication_types/</loc>
+    <loc>https://thuiar.github.io/tags/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thuiar.github.io/zh/publication_types/"
+                href="https://thuiar.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thuiar.github.io/publication_types/"
+                href="https://thuiar.github.io/tags/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/</loc>
+    <loc>https://thuiar.github.io/tag/topic-discovery/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/wei-wang/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/weiwei-yang/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xiaoqiu-huang/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thuiar.github.io/zh/"
+                href="https://thuiar.github.io/zh/author/xiaoqiu-huang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thuiar.github.io/"
+                href="https://thuiar.github.io/author/xiaoqiu-huang/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/publication-type/2/</loc>
@@ -1027,22 +1084,6 @@
     <loc>https://thuiar.github.io/author/xuhua/</loc>
     <lastmod>2022-05-01T16:24:04+08:00</lastmod>
   </url><url>
-    <loc>https://thuiar.github.io/monograph/</loc>
-    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/monograph/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/monograph/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/author/hua-xu/</loc>
-    <lastmod>2022-03-16T15:24:04+08:00</lastmod>
-  </url><url>
     <loc>https://thuiar.github.io/author/huisheng-mao/</loc>
     <lastmod>2022-03-16T15:24:04+08:00</lastmod>
   </url><url>
@@ -1061,7 +1102,7 @@
     <loc>https://thuiar.github.io/author/ziqi-yuan/</loc>
     <lastmod>2022-03-16T15:24:04+08:00</lastmod>
   </url><url>
-    <loc>https://thuiar.github.io/publication/crl/</loc>
+    <loc>https://thuiar.github.io/publication/consistent-representation-learning-for-continual-relation-extraction/</loc>
     <lastmod>2022-03-15T15:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/author/jiangong-yang/</loc>
@@ -1069,35 +1110,6 @@
   </url><url>
     <loc>https://thuiar.github.io/author/kang-zhao/</loc>
     <lastmod>2022-03-15T15:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://thuiar.github.io/tag/data-mining/</loc>
-    <lastmod>2022-03-02T15:43:29+08:00</lastmod>
-  </url><url>
-    <loc>https://thuiar.github.io/tags/</loc>
-    <lastmod>2022-03-02T15:43:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/textbook/</loc>
-    <lastmod>2022-03-02T15:43:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/textbook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/textbook/"
-                />
   </url><url>
     <loc>https://thuiar.github.io/publication/gar-net/</loc>
     <lastmod>2022-02-15T16:24:04+08:00</lastmod>
@@ -1159,6 +1171,27 @@
                 hreflang="en"
                 href="https://thuiar.github.io/author/weili/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/deep-neural-network-algorithms/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/clustering/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/hanlei-zhang/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/rui-lv/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/ting-en-lin/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/unsupervised-self-supervised-learning/</loc>
+    <lastmod>2021-05-18T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/author/panpanzhang/</loc>
     <lastmod>2021-05-08T16:24:04+08:00</lastmod>
@@ -1251,6 +1284,21 @@
                 href="https://thuiar.github.io/publication/self-mm/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/author/jiele-wu/</loc>
+    <lastmod>2021-02-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/language-grounding-multi-modal-nlp/</loc>
+    <lastmod>2021-02-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/learning-modality-specific-representations-with-self-supervised-multi-task-learning-for-multimodal-sentiment-analysis/</loc>
+    <lastmod>2021-02-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/multimodal-learning/</loc>
+    <lastmod>2021-02-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/text-classification-sentiment-analysis/</loc>
+    <lastmod>2021-02-09T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/publication/rifre/</loc>
     <lastmod>2021-02-01T15:24:04+08:00</lastmod>
     <xhtml:link
@@ -1290,6 +1338,12 @@
                 href="https://thuiar.github.io/author/yue-cheng/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/classification-and-regression/</loc>
+    <lastmod>2020-12-18T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</loc>
+    <lastmod>2020-12-18T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/publication/cmbert/</loc>
     <lastmod>2020-10-12T16:24:04+08:00</lastmod>
     <xhtml:link
@@ -1301,6 +1355,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/publication/cmbert/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/textbook/</loc>
+    <lastmod>2020-10-10T11:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/textbook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/textbook/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</loc>
@@ -1407,6 +1474,80 @@
                 href="https://thuiar.github.io/author/fanyangmeng/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/community-detection/</loc>
+    <lastmod>2020-09-19T21:38:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/community-detection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/community-detection/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/community-forest-model/</loc>
+    <lastmod>2020-09-19T21:38:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/community-forest-model/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/community-forest-model/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/diminishing-marginal-utility/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/finding-structural-hole-spanners-based-on-community-forest-model-and-diminishing-marginal-utility-in-large-scale-social-networks/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/jiangtao-hu/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/jie-lai/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/juan-gu/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/junhao-lua/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/junhui-deng/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/lei-hou/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/lidong-gu/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/rui-ma/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/structural-hole-spanner/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xiaoshuai-yu/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yan-zhang/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yanling-wei/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yichao-xiao/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yunfeng-xu/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/publication/combining-fine-tuning-with-a-feature-based-approach-for-aspect-extraction-on-reviews/</loc>
     <lastmod>2020-05-08T16:24:04+08:00</lastmod>
   </url><url>
@@ -1443,6 +1584,39 @@
                 hreflang="en"
                 href="https://thuiar.github.io/patent/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-multi-task-learning-machine-reading-comprehension-model-for-noisy-document/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/benchmark-datasets/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/coarse-to-fine/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/learning-machine/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/machine-reading/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/neural-models/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/noise-experiment/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/reading-comprehension/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/robustness-to-noise/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/successful-performance/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/task-learning/</loc>
+    <lastmod>2020-02-07T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/adversarial-learning/</loc>
     <lastmod>2020-09-19T21:38:35+08:00</lastmod>
@@ -1801,6 +1975,95 @@
                 href="https://thuiar.github.io/talk/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/attention-mechanism/</loc>
+    <lastmod>2018-07-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/attention-based-bilstm-network-with-lexical-feature-for-emotion-classification/</loc>
+    <lastmod>2018-07-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/chinese-weibo-texts/</loc>
+    <lastmod>2018-07-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/emotion-classification/</loc>
+    <lastmod>2020-09-19T21:38:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/emotion-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/emotion-classification/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/hua-xu-chengliang-gao-hanyong-hao-junhui-deng-xiaomin-sun/</loc>
+    <lastmod>2018-07-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/lstm/</loc>
+    <lastmod>2018-07-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/part-of-speech/</loc>
+    <lastmod>2018-07-08T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/hanyong-hao/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/longxia-zhu/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/online-algorithms/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/streaming-chinese-short-texts/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/topic-discovery-for-streaming-short-texts-with-ctm/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/topic-models/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xiaoli-bai/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xiaomin-sun/</loc>
+    <lastmod>2018-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/chengliang-gao/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/chinese-microblogs/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/distributed-representation-of-text/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fine-grained-emotion-classification/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/paragraph-vector/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/support-vector-machine/</loc>
+    <lastmod>2020-09-19T21:38:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/support-vector-machine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/support-vector-machine/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/xiaoming-zhang/</loc>
+    <lastmod>2018-05-20T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/author/chenglianggao/</loc>
     <lastmod>2020-09-19T21:55:32+08:00</lastmod>
     <xhtml:link
@@ -1840,6 +2103,161 @@
                 href="https://thuiar.github.io/author/xiaomingzhang/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/data-mining/</loc>
+    <lastmod>2017-09-01T15:43:29+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/abircnn-with-neural-tensor-network-for-answer-selection/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/convolution/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/insurance/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/jia-li/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/knowledge-discovery/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/logic-gates/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/neural-networks/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/semantics/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/tensile-stress/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xingwei-he/</loc>
+    <lastmod>2017-05-14T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/analytical-models/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/aspect-based-sentiment-analysis-using-abpcs-model-and-svmperf-in-chinese-reviews/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/clustering-algorithms/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/dictionaries/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/feature-extraction/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/fei-jia/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/optimize-collapsed-gibbs-sampling-for-biterm-topic-model-by-alias-method/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/sentiment-analysis/</loc>
+    <lastmod>2020-09-19T21:38:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/sentiment-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/sentiment-analysis/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/support-vector-machines/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/training/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yuxiang-bao/</loc>
+    <lastmod>2017-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/many-objective-optimization/</loc>
+    <lastmod>2020-09-19T21:55:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/many-objective-optimization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/many-objective-optimization/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/abhishek-gupta/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/multiobjective-evolutionary-algorithms-moeas/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/multiobjective-optimization/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/objective-reduction/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yew-soon-ong/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yuan-yuan/</loc>
+    <lastmod>2017-02-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/microblog/</loc>
+    <lastmod>2020-09-19T21:38:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/microblog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/microblog/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/text-mining/</loc>
+    <lastmod>2020-09-19T21:38:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/text-mining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/text-mining/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/topic-model/</loc>
+    <lastmod>2020-09-19T21:38:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/topic-model/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/topic-model/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/fan-zhang/</loc>
+    <lastmod>2017-01-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/on-the-need-of-hierarchical-emotion-classification/</loc>
+    <lastmod>2017-01-01T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</loc>
     <lastmod>2016-08-31T15:24:04+08:00</lastmod>
     <xhtml:link
@@ -1856,8 +2274,47 @@
     <loc>https://thuiar.github.io/tag/big-data/</loc>
     <lastmod>2016-08-01T15:43:29+08:00</lastmod>
   </url><url>
-    <loc>https://thuiar.github.io/author/abhishek-gupta/</loc>
-    <lastmod>2016-02-15T16:24:04+08:00</lastmod>
+    <loc>https://thuiar.github.io/tag/blogs/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/computational-modeling/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/grasp-the-implicit-features-hierarchical-emotion-classification-based-on-topic-model-and-svm/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/hyperbolic-linear-units-for-deep-convolutional-neural-networks/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/irrigation/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/jiushuo-wang/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/knowledge-based-systems/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/mathematical-model/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/probabilistic-logic/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/recurrent-neural-networks/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/sun/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/tagging/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/tweet-modeling-with-lstm-recurrent-neural-networks-for-hashtag-recommendation/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/twitter/</loc>
+    <lastmod>2016-07-24T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/publication/evolutionary-multitasking-in-permutation-based-combinatorial-optimization-problems-realization-with-tsp-qap-lop-and-jsp/</loc>
     <lastmod>2016-02-15T16:24:04+08:00</lastmod>
@@ -1867,6 +2324,19 @@
   </url><url>
     <loc>https://thuiar.github.io/author/yew-soo-ong/</loc>
     <lastmod>2016-02-15T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/monograph/</loc>
+    <lastmod>2016-02-01T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/monograph/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/monograph/"
+                />
   </url><url>
     <loc>https://thuiar.github.io/tag/bithash/</loc>
     <lastmod>2020-09-19T21:38:38+08:00</lastmod>
@@ -1879,32 +2349,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/bithash/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/community-detection/</loc>
-    <lastmod>2020-09-19T21:38:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/community-detection/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/community-detection/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/community-forest-model/</loc>
-    <lastmod>2020-09-19T21:38:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/community-forest-model/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/community-forest-model/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/expansion/</loc>
@@ -1933,19 +2377,6 @@
                 href="https://thuiar.github.io/tag/locality-sensitive-hashing/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/machine-learning/</loc>
-    <lastmod>2020-09-19T21:38:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/machine-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/machine-learning/"
-                />
-  </url><url>
     <loc>https://thuiar.github.io/tag/near-duplicate-detection/</loc>
     <lastmod>2020-09-19T21:38:38+08:00</lastmod>
     <xhtml:link
@@ -1957,19 +2388,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/near-duplicate-detection/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/sentiment-analysis/</loc>
-    <lastmod>2020-09-19T21:38:46+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/sentiment-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/sentiment-analysis/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/social-network/</loc>
@@ -2089,6 +2507,19 @@
                 href="https://thuiar.github.io/author/junzhu/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/machine-learning/</loc>
+    <lastmod>2020-09-19T21:38:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/machine-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/machine-learning/"
+                />
+  </url><url>
     <loc>https://thuiar.github.io/publication/user-ibtm/</loc>
     <lastmod>2020-09-19T21:55:39+08:00</lastmod>
     <xhtml:link
@@ -2140,6 +2571,40 @@
                 hreflang="en"
                 href="https://thuiar.github.io/talk/intelligent-mobile-robot/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/evolutionary-computation/</loc>
+    <lastmod>2020-09-19T21:55:55+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/evolutionary-computation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/evolutionary-computation/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/algorithm-design-and-analysis/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/bo-wang/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/measurement/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/optimization/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/scale-adaptive-reproduction-operator-for-decomposition-based-estimation-of-distribution-algorithm/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/sociology/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/statistics/</loc>
+    <lastmod>2015-05-25T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/cause-component-proportion/</loc>
     <lastmod>2020-09-19T21:38:39+08:00</lastmod>
@@ -2193,19 +2658,6 @@
                 href="https://thuiar.github.io/tag/emotion-causes/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/emotion-classification/</loc>
-    <lastmod>2020-09-19T21:38:42+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/emotion-classification/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/emotion-classification/"
-                />
-  </url><url>
     <loc>https://thuiar.github.io/tag/emotion-component-analysis/</loc>
     <lastmod>2020-09-19T21:38:38+08:00</lastmod>
     <xhtml:link
@@ -2230,19 +2682,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/implicit-feature/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/many-objective-optimization/</loc>
-    <lastmod>2020-09-19T21:55:43+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/many-objective-optimization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/many-objective-optimization/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/micro-blog/</loc>
@@ -2336,19 +2775,6 @@
                 href="https://thuiar.github.io/tag/sentiment-classification/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/support-vector-machine/</loc>
-    <lastmod>2020-09-19T21:38:40+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/support-vector-machine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/support-vector-machine/"
-                />
-  </url><url>
     <loc>https://thuiar.github.io/tag/svm/</loc>
     <lastmod>2020-09-19T21:38:40+08:00</lastmod>
     <xhtml:link
@@ -2360,32 +2786,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/svm/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/text-mining/</loc>
-    <lastmod>2020-09-19T21:38:39+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/text-mining/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/text-mining/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/topic-model/</loc>
-    <lastmod>2020-09-19T21:38:40+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/topic-model/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/topic-model/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/variation-operators/</loc>
@@ -2545,7 +2945,7 @@
                 />
   </url><url>
     <loc>https://thuiar.github.io/author/weiweiyang/</loc>
-    <lastmod>2020-09-19T21:55:45+08:00</lastmod>
+    <lastmod>2020-09-19T21:38:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -2570,18 +2970,47 @@
                 href="https://thuiar.github.io/author/zengcaisu/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2020-09-19T21:55:44+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/artificial-intelligence/"
-                />
+    <loc>https://thuiar.github.io/tag/context/</loc>
+    <lastmod>2014-12-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/emotion-classification-based-on-structured-information/</loc>
+    <lastmod>2014-12-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/grammar/</loc>
+    <lastmod>2014-12-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/hidden-markov-models/</loc>
+    <lastmod>2014-12-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/syntactics/</loc>
+    <lastmod>2014-12-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/accuracy/</loc>
+    <lastmod>2014-09-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/chinese-sentiment-classification-using-a-neural-network-tool-word2vec/</loc>
+    <lastmod>2014-09-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/dongwen-zhang/</loc>
+    <lastmod>2014-09-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/support-vector-machine-classification/</loc>
+    <lastmod>2014-09-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/vectors/</loc>
+    <lastmod>2014-09-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/zengcai-su/</loc>
+    <lastmod>2014-09-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/couplings/</loc>
+    <lastmod>2014-07-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/quantum-computing/</loc>
+    <lastmod>2014-07-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/quantum-inspired-evolutionary-algorithm-with-linkage-learning_/</loc>
+    <lastmod>2014-07-06T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/average-ranking/</loc>
     <lastmod>2020-09-19T21:55:43+08:00</lastmod>
@@ -2685,19 +3114,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/maximum-ranking/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/microblog/</loc>
-    <lastmod>2020-09-19T21:38:41+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/microblog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/microblog/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/microblogging/</loc>
@@ -2804,6 +3220,19 @@
                 href="https://thuiar.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2020-09-19T21:55:44+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/artificial-intelligence/"
+                />
+  </url><url>
     <loc>https://thuiar.github.io/publication/box-office-prediction-based-on-microblog/</loc>
     <lastmod>2020-09-19T21:38:41+08:00</lastmod>
     <xhtml:link
@@ -2815,19 +3244,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/publication/box-office-prediction-based-on-microblog/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</loc>
-    <lastmod>2020-09-19T21:55:45+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</loc>
@@ -2883,7 +3299,7 @@
                 />
   </url><url>
     <loc>https://thuiar.github.io/author/xiaoqiuhuang/</loc>
-    <lastmod>2020-09-19T21:55:45+08:00</lastmod>
+    <lastmod>2020-09-19T21:38:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -2908,18 +3324,58 @@
                 href="https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/author/xiaoqiu-huang/</loc>
-    <lastmod>2020-09-19T21:55:46+08:00</lastmod>
+    <loc>https://thuiar.github.io/tag/flexible-job-shop-scheduling/</loc>
+    <lastmod>2020-09-19T21:55:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thuiar.github.io/zh/author/xiaoqiu-huang/"
+                href="https://thuiar.github.io/zh/tag/flexible-job-shop-scheduling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thuiar.github.io/author/xiaoqiu-huang/"
+                href="https://thuiar.github.io/tag/flexible-job-shop-scheduling/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/local-search/</loc>
+    <lastmod>2020-09-19T21:55:47+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/local-search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/local-search/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/memetic-algorithm-ma/</loc>
+    <lastmod>2013-08-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/multiobjective-flexible-job-shop-scheduling-using-memetic-algorithms/</loc>
+    <lastmod>2013-08-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/mutliobjective/</loc>
+    <lastmod>2013-08-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/nondominated-sorting-genetic-algorithm-ii-nsga-ii/</loc>
+    <lastmod>2013-08-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-job-shop-flexible-scheduling-problem/</loc>
+    <lastmod>2013-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/computing-methodologies/</loc>
+    <lastmod>2013-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/heuristic-function-construction/</loc>
+    <lastmod>2013-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/planning-and-scheduling/</loc>
+    <lastmod>2013-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/search-methodologies/</loc>
+    <lastmod>2013-07-01T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/publication/effective-structure-learning-for-estimation-of-distribution-algorithms-via-l1-regularized-bayesian-networks/</loc>
     <lastmod>2013-01-15T15:24:04+08:00</lastmod>
@@ -2966,19 +3422,6 @@
                 href="https://thuiar.github.io/tag/estimation-of-distribution-algorithms/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/evolutionary-computation/</loc>
-    <lastmod>2020-09-19T21:55:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/evolutionary-computation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/evolutionary-computation/"
-                />
-  </url><url>
     <loc>https://thuiar.github.io/tag/features-reduction/</loc>
     <lastmod>2020-09-19T21:38:44+08:00</lastmod>
     <xhtml:link
@@ -2990,19 +3433,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/features-reduction/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/flexible-job-shop-scheduling/</loc>
-    <lastmod>2020-09-19T21:55:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/flexible-job-shop-scheduling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/flexible-job-shop-scheduling/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/flexible-job-shop/</loc>
@@ -3081,19 +3511,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/large-neighborhood-search/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/local-search/</loc>
-    <lastmod>2020-09-19T21:55:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/local-search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/local-search/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/makespan/</loc>
@@ -3265,6 +3682,30 @@
                 href="https://thuiar.github.io/talk/industrial-data-mining/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/publication/a-hop-by-hop-network-coding-algorithm-for-aviation-communications-networks/</loc>
+    <lastmod>2012-10-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/peifa-jia/</loc>
+    <lastmod>2012-10-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yuan-wang/</loc>
+    <lastmod>2012-10-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/hhs_lns/</loc>
+    <lastmod>2012-06-10T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/job-shop-scheduling/</loc>
+    <lastmod>2012-06-10T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/memetics/</loc>
+    <lastmod>2012-06-10T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/schedules/</loc>
+    <lastmod>2012-06-10T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/search-problems/</loc>
+    <lastmod>2012-06-10T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/tag/bayesian-optimization-algorithm/</loc>
     <lastmod>2020-09-19T21:55:51+08:00</lastmod>
     <xhtml:link
@@ -3382,31 +3823,59 @@
                 href="https://thuiar.github.io/publication/weakness-finder/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/anti-germ-performance-prediction/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/anti-germ-performance-prediction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/anti-germ-performance-prediction/"
-                />
+    <loc>https://thuiar.github.io/publication/a-cooperative-coevolution-based-pittsburgh-learning-classifier-system-embedded-with-memetic-feature-selection/</loc>
+    <lastmod>2011-07-19T16:24:04+08:00</lastmod>
   </url><url>
-    <loc>https://thuiar.github.io/tag/artificial-neural-networks/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/artificial-neural-networks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/artificial-neural-networks/"
-                />
+    <loc>https://thuiar.github.io/tag/biological-cells/</loc>
+    <lastmod>2011-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/genetic-algorithms/</loc>
+    <lastmod>2011-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/genetics/</loc>
+    <lastmod>2011-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yun-wen/</loc>
+    <lastmod>2011-07-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-design-method-of-multiple-protocols-communication-module-in-semiconductor-equipment-simulation-platform/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/bo-li/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/communication-module/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/longqing-zou/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/semiconductor-equipment/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/simulation-platform/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/youwei-an/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yuan-luo/</loc>
+    <lastmod>2011-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/design-of-component-simulation-platform-for-integrated-circuit-manufacturing-equipments/</loc>
+    <lastmod>2011-02-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/ic-manufacturing-equipment/</loc>
+    <lastmod>2011-02-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/lei-li/</loc>
+    <lastmod>2011-02-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/ressure-subsystem/</loc>
+    <lastmod>2011-02-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/semi-standard/</loc>
+    <lastmod>2011-02-24T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/genetic-algorithm/</loc>
     <lastmod>2020-09-19T21:55:52+08:00</lastmod>
@@ -3460,19 +3929,6 @@
                 href="https://thuiar.github.io/tag/hybrid-metaheuristic/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/tag/ingredient-level-prediction/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/ingredient-level-prediction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/ingredient-level-prediction/"
-                />
-  </url><url>
     <loc>https://thuiar.github.io/tag/key-features/</loc>
     <lastmod>2020-09-19T21:38:47+08:00</lastmod>
     <xhtml:link
@@ -3484,19 +3940,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/key-features/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/monotonicity-rule/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/monotonicity-rule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/monotonicity-rule/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/multiprocessor-scheduling/</loc>
@@ -3523,32 +3966,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/tag/neural-network/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/parallel-computing/</loc>
-    <lastmod>2020-09-19T21:38:49+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/parallel-computing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/parallel-computing/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tag/preprocessing-methods/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tag/preprocessing-methods/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tag/preprocessing-methods/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/tag/product-feature-grouping/</loc>
@@ -3640,32 +4057,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/author/anqicui/</loc>
-    <lastmod>2020-09-19T21:38:48+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/author/anqicui/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/author/anqicui/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/author/badakang/</loc>
@@ -3811,6 +4202,19 @@
                 href="https://thuiar.github.io/author/mingjie/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/parallel-computing/</loc>
+    <lastmod>2020-09-19T21:38:49+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/parallel-computing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/parallel-computing/"
+                />
+  </url><url>
     <loc>https://thuiar.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</loc>
     <lastmod>2020-09-19T21:38:47+08:00</lastmod>
     <xhtml:link
@@ -3874,6 +4278,87 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thuiar.github.io/talk/data-mining-method-and-application/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/author/anqi-cui/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/anti-germ-performance-prediction/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/anti-germ-performance-prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/anti-germ-performance-prediction/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/artificial-neural-networks/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/artificial-neural-networks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/artificial-neural-networks/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/ingredient-level-prediction/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/ingredient-level-prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/ingredient-level-prediction/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/monotonicity-rule/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/monotonicity-rule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/monotonicity-rule/"
+                />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/preprocessing-methods/</loc>
+    <lastmod>2010-12-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tag/preprocessing-methods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tag/preprocessing-methods/"
                 />
   </url><url>
     <loc>https://thuiar.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</loc>
@@ -4045,6 +4530,60 @@
                 href="https://thuiar.github.io/author/yunpengcai/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/publication/fuzzy-timed-agent-based-petri-nets-for-modeling-cooperative-multi-robot-systems/</loc>
+    <lastmod>2009-12-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/multi-cooperative-robot-systems/</loc>
+    <lastmod>2009-12-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/multi-agent-systems/</loc>
+    <lastmod>2009-12-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/petri-nets/</loc>
+    <lastmod>2009-12-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xingli-huang/</loc>
+    <lastmod>2009-12-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/jiadong-yang/</loc>
+    <lastmod>2009-12-11T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/task-scheduling/</loc>
+    <lastmod>2009-12-11T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/task-scheduling-for-heterogeneous-computing-based-on-bayesian-optimization-algorithm/</loc>
+    <lastmod>2009-12-11T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/jun-li/</loc>
+    <lastmod>2009-11-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/sentiment-classification-for-chinese-reviews-based-on-key-substring-features/</loc>
+    <lastmod>2009-11-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/substring/</loc>
+    <lastmod>2009-11-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/transductive-learning/</loc>
+    <lastmod>2009-11-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/zhongwu-zhai/</loc>
+    <lastmod>2009-11-06T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-hierarchical-routing-architecture-for-the-aviation-communication-network/</loc>
+    <lastmod>2009-09-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/hierarchical-routing-architecture/</loc>
+    <lastmod>2009-09-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/mobile-ad-hoc-network/</loc>
+    <lastmod>2009-09-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/proactive-routing-protocol/</loc>
+    <lastmod>2009-09-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/reactive-routing-protocol/</loc>
+    <lastmod>2009-09-29T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</loc>
     <lastmod>2009-08-31T15:24:04+08:00</lastmod>
     <xhtml:link
@@ -4057,6 +4596,150 @@
                 hreflang="en"
                 href="https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/publication/anti-germ-performance-prediction-for-detergents-based-on-elman-network-on-small-data-sets/</loc>
+    <lastmod>2009-08-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/pre-processing-methods/</loc>
+    <lastmod>2009-08-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/identifying-opinion-leaders-in-bbs/</loc>
+    <lastmod>2008-12-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/interest-field/</loc>
+    <lastmod>2008-12-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/opinion-leader/</loc>
+    <lastmod>2008-12-09T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-fuzzy-timed-object-oriented-petri-net-for-multi-agent-systems/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/algorithms/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/data-analysis/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/modeling/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/pattern-recognition/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/robot-controller/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/topn-based-temporal-performance-evaluation-method-of-neural-network-based-robot-controller/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/unsupervised-learning/</loc>
+    <lastmod>2008-09-24T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/channel-mapping/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/client-server-manner/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/communication-interface/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/control-engineering-computing/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/control-middleware/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/control-middleware-for-open-robot-controllers/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/data-channels/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/data-server/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/heterogeneous-hardware-devices/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/hui-zhang/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/international-uniform-access-software-channels/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/logical-controllers/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/middleware/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/open-architecture/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/open-robot-controllers/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/peripheral-devices/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/robots/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/wrapper-method/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yonglin-chi/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yunpeng-cai/</loc>
+    <lastmod>2007-10-17T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-rough-set-and-fuzzy-neural-petri-net-based-method-for-dynamic-knowledge-extraction-representation-and-inference-in-cooperative-multiple-robot-system/</loc>
+    <lastmod>2007-07-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/decision-table/</loc>
+    <lastmod>2007-07-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/direction-angle/</loc>
+    <lastmod>2007-07-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fuzzy-interval/</loc>
+    <lastmod>2007-07-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fuzzy-reasoning/</loc>
+    <lastmod>2007-07-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/horn-clause/</loc>
+    <lastmod>2007-07-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/back-propagation/</loc>
+    <lastmod>2007-06-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/expert-system/</loc>
+    <lastmod>2007-06-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fuzzy/</loc>
+    <lastmod>2007-06-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/fuzzy-neural-petri-nets/</loc>
+    <lastmod>2007-06-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/learning/</loc>
+    <lastmod>2007-06-03T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-novel-modeling-method-for-cooperative-multi-robot-systems-using-fuzzy-timed-agent-based-petri-nets/</loc>
+    <lastmod>2007-05-27T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/agent/</loc>
+    <lastmod>2007-05-27T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/multi-robot-system/</loc>
+    <lastmod>2007-05-27T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/object-oriented/</loc>
+    <lastmod>2007-05-27T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/tag/adaptive-variance-scaling/</loc>
     <lastmod>2020-09-19T21:55:55+08:00</lastmod>
@@ -4110,6 +4793,132 @@
                 href="https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/open-systems/</loc>
+    <lastmod>2006-10-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/real-time-systems/</loc>
+    <lastmod>2006-10-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/robot-programming/</loc>
+    <lastmod>2006-10-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/robotics/</loc>
+    <lastmod>2006-10-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/rtoc/</loc>
+    <lastmod>2006-10-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-novel-dynamic-knowledge-extraction-method-in-cooperative-multiple-robot-system-using-rough-set/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fuzzy-sets/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/fuzzy-timed-object-oriented-petri-net/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/knowledge-extraction/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/object-oriented-method/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/rough-sets/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/timing-effect/</loc>
+    <lastmod>2005-09-07T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-novel-chamber-scheduling-method-in-etching-tools-using-adaptive-neural-networks/</loc>
+    <lastmod>2005-05-30T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/machine-learning-approaches/</loc>
+    <lastmod>2005-05-30T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/xuegong-zhang/</loc>
+    <lastmod>2005-05-30T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/modular-computer-systems/</loc>
+    <lastmod>2004-08-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/the-rtoc-open-system-for-controlling-fictitious-roaming-platform/</loc>
+    <lastmod>2004-08-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yiming-cao/</loc>
+    <lastmod>2004-08-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/zehong-yang/</loc>
+    <lastmod>2004-08-22T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/control-software/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/haozhi-liu/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/ming-yang/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/openness/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/portability/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/portability-in-general-open-controllers/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/programming-language/</loc>
+    <lastmod>2002-10-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-conceptual-communication-model-based-on-hoonet-in-general-open-controllers/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/automatic-control/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/communication-system-control/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/computer-architecture/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/control-system-synthesis/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/control-systems/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/intelligent-systems/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/laboratories/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/object-oriented-modeling/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/robot-control/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/system-performance/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yannan-zhao/</loc>
+    <lastmod>2002-07-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-generic-conceptual-model-of-interface-components-in-open-robot-controller/</loc>
+    <lastmod>2001-10-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/conceiving-analyzing-modeling-verifying-and-developing-the-clews-of-modeling-open-software-architectures-of-robot-controllers/</loc>
+    <lastmod>2001-10-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/software-engineering/</loc>
+    <lastmod>2001-10-29T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/author/yanan-zhao/</loc>
+    <lastmod>2001-10-29T16:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thuiar.github.io/talk/data-structure-cs/</loc>
     <lastmod>2001-01-01T00:00:00+08:00</lastmod>
     <xhtml:link
@@ -4135,6 +4944,42 @@
                 hreflang="en"
                 href="https://thuiar.github.io/talk/data-structure/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/publication/a-modified-genetic-algorithm-algorithm-description/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/computer-science/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/electronic-mail/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/genetic-mutations/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/humans/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/intelligent-structures/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/modems/</loc>
+    <lastmod>2000-08-21T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/adaptive-control/</loc>
+    <lastmod>2000-06-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/publication/an-adaptive-method-of-signal-selecting-based-on-the-strategy-of-fuzzy-clustering-and-expert-reasoning/</loc>
+    <lastmod>2000-06-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fuzzy-control/</loc>
+    <lastmod>2000-06-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/fuzzy-systems/</loc>
+    <lastmod>2000-06-28T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/tag/programmable-control/</loc>
+    <lastmod>2000-06-28T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/talk/computational-geometry/</loc>
     <lastmod>1997-01-01T00:00:00+08:00</lastmod>
@@ -4173,6 +5018,8 @@
                 href="https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/"
                 />
   </url><url>
+    <loc>https://thuiar.github.io/tag/anomaly/outlier-detection/</loc>
+  </url><url>
     <loc>https://thuiar.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4184,6 +5031,8 @@
                 hreflang="en"
                 href="https://thuiar.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://thuiar.github.io/tag/conversational-ai/dialog-systems/</loc>
   </url><url>
     <loc>https://thuiar.github.io/post/</loc>
     <xhtml:link

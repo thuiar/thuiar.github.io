@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QianruiZhou | THUIAR</title>
+    <link>https://thuiar.github.io/author/qianruizhou/</link>
+      <atom:link href="https://thuiar.github.io/author/qianruizhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>QianruiZhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sat, 08 Oct 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>QianruiZhou</title>
+      <link>https://thuiar.github.io/author/qianruizhou/</link>
+    </image>
+    
+    <item>
+      <title>MIntRec: A New Dataset for Multimodal Intent Recognition</title>
+      <link>https://thuiar.github.io/publication/mintrec/</link>
+      <pubDate>Sat, 08 Oct 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/mintrec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

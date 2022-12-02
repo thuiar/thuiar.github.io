@@ -22,9 +22,9 @@
     
     <item>
       <title>Consistent Representation Learning for Continual Relation Extraction</title>
-      <link>https://thuiar.github.io/publication/crl/</link>
+      <link>https://thuiar.github.io/publication/consistent-representation-learning-for-continual-relation-extraction/</link>
       <pubDate>Tue, 15 Mar 2022 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/crl/</guid>
+      <guid>https://thuiar.github.io/publication/consistent-representation-learning-for-continual-relation-extraction/</guid>
       <description></description>
     </item>
     
@@ -41,6 +41,30 @@
       <link>https://thuiar.github.io/publication/rifre/</link>
       <pubDate>Mon, 01 Feb 2021 15:24:04 +0800</pubDate>
       <guid>https://thuiar.github.io/publication/rifre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Based BiLSTM Network with Lexical Feature for Emotion Classification </title>
+      <link>https://thuiar.github.io/publication/attention-based-bilstm-network-with-lexical-feature-for-emotion-classification/</link>
+      <pubDate>Sun, 08 Jul 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/attention-based-bilstm-network-with-lexical-feature-for-emotion-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Emotion Analysis with Different Distributed Representation Methods for Chinese Microblogs</title>
+      <link>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</link>
+      <pubDate>Sun, 20 May 2018 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-empirical-study-of-emotion-analysis-with-different-distributed-representation-methods-for-chinese-microblogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Classification Based on Structured Information</title>
+      <link>https://thuiar.github.io/publication/emotion-classification-based-on-structured-information/</link>
+      <pubDate>Mon, 29 Dec 2014 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/emotion-classification-based-on-structured-information/</guid>
       <description></description>
     </item>
     

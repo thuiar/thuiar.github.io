@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Wang | THUIAR</title>
+    <link>https://thuiar.github.io/author/yuan-wang/</link>
+      <atom:link href="https://thuiar.github.io/author/yuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Mon, 22 Oct 2012 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuan Wang</title>
+      <link>https://thuiar.github.io/author/yuan-wang/</link>
+    </image>
+    
+    <item>
+      <title>A hop-by-hop network coding algorithm for aviation communications networks</title>
+      <link>https://thuiar.github.io/publication/a-hop-by-hop-network-coding-algorithm-for-aviation-communications-networks/</link>
+      <pubDate>Mon, 22 Oct 2012 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-hop-by-hop-network-coding-algorithm-for-aviation-communications-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hierarchical routing architecture for the aviation communication network</title>
+      <link>https://thuiar.github.io/publication/a-hierarchical-routing-architecture-for-the-aviation-communication-network/</link>
+      <pubDate>Tue, 29 Sep 2009 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-hierarchical-routing-architecture-for-the-aviation-communication-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rough set and fuzzy neural Petri net based method for dynamic knowledge extraction, representation and inference in cooperative multiple robot system</title>
+      <link>https://thuiar.github.io/publication/a-rough-set-and-fuzzy-neural-petri-net-based-method-for-dynamic-knowledge-extraction-representation-and-inference-in-cooperative-multiple-robot-system/</link>
+      <pubDate>Tue, 03 Jul 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-rough-set-and-fuzzy-neural-petri-net-based-method-for-dynamic-knowledge-extraction-representation-and-inference-in-cooperative-multiple-robot-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy neural Petri nets</title>
+      <link>https://thuiar.github.io/publication/fuzzy-neural-petri-nets/</link>
+      <pubDate>Sun, 03 Jun 2007 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/fuzzy-neural-petri-nets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
