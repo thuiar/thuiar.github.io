@@ -5,36 +5,12 @@
     <link>https://thuiar.github.io/author/huisheng-mao/</link>
       <atom:link href="https://thuiar.github.io/author/huisheng-mao/index.xml" rel="self" type="application/rss+xml" />
     <description>Huisheng Mao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 15:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>Huisheng Mao</title>
       <link>https://thuiar.github.io/author/huisheng-mao/</link>
     </image>
-    
-    <item>
-      <title>Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dataset and AV-Mixup Consistent Module</title>
-      <link>https://thuiar.github.io/publication/make-acoustic-and-visual-cues-matter_/</link>
-      <pubDate>Tue, 01 Nov 2022 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/make-acoustic-and-visual-cues-matter_/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M-SENA: An Integrated Platform for Multimodal Sentiment Analysis</title>
-      <link>https://thuiar.github.io/publication/m-sena/</link>
-      <pubDate>Wed, 16 Mar 2022 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/m-sena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An End-to-End Traditional Chinese Medicine Constitution Assessment System Based on Multimodal Clinical Feature Representation and Fusion</title>
-      <link>https://thuiar.github.io/publication/an-end-to-end-traditional-chinese-medicine-constitution-assessment-system-based-on-multimodal-clinical-feature-representation-and-fusion/</link>
-      <pubDate>Wed, 12 Jan 2022 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/an-end-to-end-traditional-chinese-medicine-constitution-assessment-system-based-on-multimodal-clinical-feature-representation-and-fusion/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
