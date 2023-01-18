@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>data mining | THUIAR</title>
+    <title>Data Mining | THUIAR</title>
     <link>https://thuiar.github.io/tag/data-mining/</link>
       <atom:link href="https://thuiar.github.io/tag/data-mining/index.xml" rel="self" type="application/rss+xml" />
-    <description>data mining</description>
+    <description>Data Mining</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright><lastBuildDate>Wed, 02 Mar 2022 15:43:29 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
-      <title>data mining</title>
+      <title>Data Mining</title>
       <link>https://thuiar.github.io/tag/data-mining/</link>
     </image>
     
@@ -25,6 +25,14 @@
       <link>https://thuiar.github.io/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
       <guid>https://thuiar.github.io/textbook/datamining-methodandapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Machine Learning</title>
+      <link>https://thuiar.github.io/monograph/evolutionary-machine-learning/</link>
+      <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.github.io/monograph/evolutionary-machine-learning/</guid>
       <description></description>
     </item>
     

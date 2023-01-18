@@ -5,7 +5,7 @@
     <link>https://thuiar.github.io/author/hanlei-zhang/</link>
       <atom:link href="https://thuiar.github.io/author/hanlei-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanlei Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright><lastBuildDate>Sat, 08 Oct 2022 16:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright><lastBuildDate>Tue, 18 May 2021 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>Hanlei Zhang</title>
@@ -13,50 +13,18 @@
     </image>
     
     <item>
-      <title>MIntRec: A New Dataset for Multimodal Intent Recognition</title>
-      <link>https://thuiar.github.io/publication/mintrec/</link>
-      <pubDate>Sat, 08 Oct 2022 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/mintrec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TEXTOIR: An Integrated and Visualized Platform for Text Open Intent Recognition</title>
-      <link>https://thuiar.github.io/publication/textoir/</link>
-      <pubDate>Sat, 08 May 2021 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/textoir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Discovering New Intents with Deep Aligned Clustering</title>
-      <link>https://thuiar.github.io/publication/deepaligned-clustering/</link>
-      <pubDate>Wed, 17 Feb 2021 18:38:46 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/deepaligned-clustering/</guid>
+      <link>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</link>
+      <pubDate>Tue, 18 May 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/discovering-new-intents-with-deep-aligned-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Open Intent Classification with Adaptive Decision Boundary</title>
-      <link>https://thuiar.github.io/publication/adaptive-decision-boundary/</link>
-      <pubDate>Tue, 16 Feb 2021 18:38:46 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/adaptive-decision-boundary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constrained Self-supervised Clustering for Discovering New Intents</title>
-      <link>https://thuiar.github.io/publication/constrained-self-supervised-clustering-for-discovering-new-intents/</link>
-      <pubDate>Fri, 08 May 2020 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/constrained-self-supervised-clustering-for-discovering-new-intents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
-      <link>https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
-      <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
+      <link>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</link>
+      <pubDate>Fri, 18 Dec 2020 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/deep-open-intent-classification-with-adaptive-decision-boundary/</guid>
       <description></description>
     </item>
     
