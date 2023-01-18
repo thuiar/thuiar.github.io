@@ -5,12 +5,28 @@
     <link>https://thuiar.github.io/publication-type/2/</link>
       <atom:link href="https://thuiar.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2022</copyright><lastBuildDate>Sun, 01 May 2022 16:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 16:24:04 +0800</lastBuildDate>
     <image>
       <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://thuiar.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>An Adaptive Batch Bayesian Optimization Approach for Expensive Multi-Objective Optimization problems</title>
+      <link>https://thuiar.github.io/publication/an-adaptive-batch-bayesian-optimization-approach-for-expensive-multi-objective-optimization-problems/</link>
+      <pubDate>Sun, 01 Jan 2023 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/an-adaptive-batch-bayesian-optimization-approach-for-expensive-multi-objective-optimization-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Machine Reading Comprehension with Conditional Adversarial Calibration</title>
+      <link>https://thuiar.github.io/publication/trustworthy-machine-reading-comprehension-with-conditional-adversarial-calibration/</link>
+      <pubDate>Sun, 02 Oct 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/trustworthy-machine-reading-comprehension-with-conditional-adversarial-calibration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-dimensional expensive multi-objective optimization via additive structure</title>

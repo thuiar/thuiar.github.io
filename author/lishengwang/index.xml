@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LiShengWang | THUIAR</title>
+    <link>https://thuiar.github.io/author/lishengwang/</link>
+      <atom:link href="https://thuiar.github.io/author/lishengwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>LiShengWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© THUIAR 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 15:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>LiShengWang</title>
+      <link>https://thuiar.github.io/author/lishengwang/</link>
+    </image>
+    
+    <item>
+      <title>Multi-kernel Convolutional Neural Network for Wrist Pulse Signal Classification</title>
+      <link>https://thuiar.github.io/publication/multi-kernel-convolutional-neural-network-for-wrist-pulse-signal-classification/</link>
+      <pubDate>Tue, 01 Nov 2022 15:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/multi-kernel-convolutional-neural-network-for-wrist-pulse-signal-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
