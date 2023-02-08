@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thuiar.github.io/author/hua-xu/</loc>
-    <lastmod>2022-12-01T15:43:29+08:00</lastmod>
+    <lastmod>2022-10-08T16:24:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -15,9 +15,6 @@
                 href="https://thuiar.github.io/author/hua-xu/"
                 />
   </url><url>
-    <loc>https://thuiar.github.io/monograph/%E9%9D%A2%E5%90%91%E5%85%B1%E8%9E%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92%E5%A4%9A%E6%A8%A1%E6%80%81%E4%BA%A4%E4%BA%92%E4%BF%A1%E6%81%AF%E7%9A%84%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-12-01T15:43:29+08:00</lastmod>
-  </url><url>
     <loc>https://thuiar.github.io/author/shaojie-zhao/</loc>
     <lastmod>2022-10-08T16:24:04+08:00</lastmod>
   </url><url>
@@ -26,9 +23,6 @@
   </url><url>
     <loc>https://thuiar.github.io/author/jingliang-fang/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://thuiar.github.io/monograph/%E9%9D%A2%E5%90%91%E5%85%B1%E8%9E%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92%E4%BA%BA%E6%9C%BA%E5%AF%B9%E8%AF%9D%E6%84%8F%E5%9B%BE%E7%90%86%E8%A7%A3/</loc>
-    <lastmod>2022-04-01T15:43:29+08:00</lastmod>
   </url><url>
     <loc>https://thuiar.github.io/monograph/intent/</loc>
     <lastmod>2022-03-20T15:43:29+08:00</lastmod>
@@ -1026,35 +1020,6 @@
     <loc>https://thuiar.github.io/author/zhangzeqiu/</loc>
     <lastmod>2023-01-01T16:24:04+08:00</lastmod>
   </url><url>
-    <loc>https://thuiar.github.io/tag/aritificial-intelligence/</loc>
-    <lastmod>2022-12-01T15:43:29+08:00</lastmod>
-  </url><url>
-    <loc>https://thuiar.github.io/monograph/</loc>
-    <lastmod>2022-12-01T15:43:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/monograph/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/monograph/"
-                />
-  </url><url>
-    <loc>https://thuiar.github.io/tags/</loc>
-    <lastmod>2022-12-01T15:43:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thuiar.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thuiar.github.io/tags/"
-                />
-  </url><url>
     <loc>https://thuiar.github.io/publication-type/1/</loc>
     <lastmod>2022-11-01T15:24:04+08:00</lastmod>
     <xhtml:link
@@ -1188,6 +1153,19 @@
     <loc>https://thuiar.github.io/publication/mfenas/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
   </url><url>
+    <loc>https://thuiar.github.io/tags/</loc>
+    <lastmod>2022-07-19T16:24:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/tags/"
+                />
+  </url><url>
     <loc>https://thuiar.github.io/tag/topic-discovery/</loc>
     <lastmod>2022-07-19T16:24:04+08:00</lastmod>
   </url><url>
@@ -1212,6 +1190,19 @@
   </url><url>
     <loc>https://thuiar.github.io/publication/high-dimensional-expensive-multi-objective-optimization-via-additive-structure/</loc>
     <lastmod>2022-05-01T16:24:04+08:00</lastmod>
+  </url><url>
+    <loc>https://thuiar.github.io/monograph/</loc>
+    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://thuiar.github.io/zh/monograph/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thuiar.github.io/monograph/"
+                />
   </url><url>
     <loc>https://thuiar.github.io/publication/m-sena/</loc>
     <lastmod>2022-03-16T15:24:04+08:00</lastmod>
