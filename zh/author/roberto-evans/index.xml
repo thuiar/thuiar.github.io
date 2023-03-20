@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberto Evans | 清华大学IAR研究组</title>
+    <link>https://thuiar.github.io/zh/author/roberto-evans/</link>
+      <atom:link href="https://thuiar.github.io/zh/author/roberto-evans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberto Evans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© THUIAR 2023</copyright>
+    <image>
+      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Roberto Evans</title>
+      <link>https://thuiar.github.io/zh/author/roberto-evans/</link>
+    </image>
+    
+  </channel>
+</rss>
