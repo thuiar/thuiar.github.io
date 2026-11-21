@@ -5294,4 +5294,14 @@
                 href="https://thuiar.github.io/post/"
                 />
   </url>
+  <url>
+    <loc>https://thuiar.github.io/author/yanbo-li/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thuiar.github.io/author/yanbo-li/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://thuiar.github.io/zh/author/yanbo-li/" />
+  </url>
+  <url>
+    <loc>https://thuiar.github.io/author/shihao-zhou/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thuiar.github.io/author/shihao-zhou/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://thuiar.github.io/zh/author/shihao-zhou/" />
+  </url>
 </urlset>
