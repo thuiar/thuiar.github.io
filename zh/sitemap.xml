@@ -4255,4 +4255,14 @@
                 href="https://thuiar.github.io/zh/post/"
                 />
   </url>
+  <url>
+    <loc>https://thuiar.github.io/zh/author/tianxing-yang/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thuiar.github.io/author/tianxing-yang/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://thuiar.github.io/zh/author/tianxing-yang/" />
+  </url>
+  <url>
+    <loc>https://thuiar.github.io/zh/author/yuetian-zou/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://thuiar.github.io/author/yuetian-zou/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://thuiar.github.io/zh/author/yuetian-zou/" />
+  </url>
 </urlset>
